@@ -1,625 +1,625 @@
-,Ticker,Nombre,Moneda,System Asset Class,Portafolio,Asset Class,Geography / Subclass,Market
-0,AACCHIA CI EQUITY,ARRAYAN ACCIONES CHILENAS FONDO DE INVERSION,CLP - Chile Peso,RENTA VARIABLE,Nacional,Equities,Chile,Fund
-1,ABC CI EQUITY,ABC S.A.,CLP - Chile Peso,RENTA VARIABLE,Nacional,Equities,Chile,Stock
-2,BADRT-G,AD RETAIL 2% 2042,CLP - Chile Peso,RENTA FIJA,Nacional,Fixed Income,Chile,Bond
-3,BAGRS-D,"AGROSUPER 3,8% 2032",CLF - Chile UF,RENTA FIJA,Nacional,Fixed Income,Chile,Bond
-4,BAGRS-L,"AGROSUPER 2,5% 2028",CLF - Chile UF,RENTA FIJA,Nacional,Fixed Income,Chile,Bond
-5,BBCIS-P36A,BCI SECURITIZADORA S.A. 8.5% 2029,CLP - Chile Peso,RENTA FIJA,Nacional,Fixed Income,Chile,Bond
-6,BBEFS-11C1,EF SECURITIZADORA S.A. 10% 2033,CLP - Chile Peso,RENTA FIJA,Nacional,Fixed Income,Chile,Bond
-7,BBEFS-P11D,EF SECURITIZADORA S.A SERIE D 10% 2033,CLP - Chile Peso,RENTA FIJA,Nacional,Fixed Income,Chile,Bond
-8,BBNSAN0918,SCOTIABANK CHILE 2.1% 2026,CLF - Chile UF,RENTA FIJA,Nacional,Fixed Income,Chile,Bond
-9,BBTG-G1220,BANCO BTG PACTUAL 1% 2027,CLF - Chile UF,RENTA FIJA,Nacional,Fixed Income,Chile,Bond
-10,BBTG-L0223,BANCO BTG PACTUAL 1% 2030,CLF - Chile UF,RENTA FIJA,Nacional,Fixed Income,Chile,Bond
-11,BBTG-X0724,BANCO BTG PACTUAL 2% 2028,CLF - Chile UF,RENTA FIJA,Nacional,Fixed Income,Chile,Bond
-12,BCAJCO0625,"LOS ANDES 5,9% 2028",CLP - Chile Peso,RENTA FIJA,Nacional,Fixed Income,Chile,Bond
-13,BCALI-A,"CALICHERA S.A 4,5% 2030",CLF - Chile UF,RENTA FIJA,Nacional,Fixed Income,Chile,Bond
-14,BCHDECH CI EQUITY,BANCHILE FI DEUDA CHILENA,CLP - Chile Peso,RENTA FIJA,Nacional,Fixed Income,Chile,Fund
-15,BCHIAX0613,"BANCO DE CHILE 3,6% 2025",CLF - Chile UF,RENTA FIJA,Nacional,Fixed Income,Chile,Bond
-16,BCHIFH1221,"BANCO DE CHILE 2,6% 2030",CLF - Chile UF,RENTA FIJA,Nacional,Fixed Income,Chile,Bond
-17,BCHIUZ1011,"BBCHILE 3,5% 2025",CLF - Chile UF,RENTA FIJA,Nacional,Fixed Income,Chile,Bond
-18,BCI CI EQUITY,BCI,CLP - Chile Peso,RENTA VARIABLE,Nacional,Equities,Chile,Stock
-19,BCSMU-B,"SMU 3,8% 2032",CLF - Chile UF,RENTA FIJA,Nacional,Fixed Income,Chile,Bond
-20,BDWDISP CI EQUITY,BANCHILE DISPONIBLE - L,CLP - Chile Peso,CAJA Y M.M.,Nacional,Liquidity,Chile,Chile
-21,BECOP-AG,"COPEC 3,2% 2034",CLF - Chile UF,RENTA FIJA,Nacional,Fixed Income,Chile,Bond
-22,BELME-F,COMPANIA ELECTRO METALURGICA S.A. 3% 2032,CLF - Chile UF,RENTA FIJA,Nacional,Fixed Income,Chile,Bond
-23,BENTE-R,"ENTEL 3,5% 2030",CLF - Chile UF,RENTA FIJA,Nacional,Fixed Income,Chile,Bond
-24,BESTT50617,BANCO DEL ESTADO DE CHILE 3% 2027,CLF - Chile UF,RENTA FIJA,Nacional,Fixed Income,Chile,Bond
-25,BFAL-G1217,"BBFALABELL 2,8% 2027",CLF - Chile UF,RENTA FIJA,Nacional,Fixed Income,Chile,Bond
-26,BICINDX CI EQUITY,BICE LIQUIDEZ PESOS CLASICA,CLP - Chile Peso,CAJA Y M.M.,Nacional,Liquidity,Chile,Chile
-27,BLATM-F,LATAM AIRLINES 2% 2042,CLF - Chile UF,RENTA FIJA,Nacional,Fixed Income,Chile,Bond
-28,BQUIN-C,QUINENCO 4% 2032,CLF - Chile UF,RENTA FIJA,Nacional,Fixed Income,Chile,Bond
-29,BRPLAC0524,BANCO RIPLEY 3.1% 2030,CLF - Chile UF,RENTA FIJA,Nacional,Fixed Income,Chile,Bond
-30,BRPLAE1122,"BANCO RIPLEY 3,1% 2026",CLF - Chile UF,RENTA FIJA,Nacional,Fixed Income,Chile,Bond
-31,BSALF-B,"SALFACORP 4,5% 2029",CLF - Chile UF,RENTA FIJA,Nacional,Fixed Income,Chile,Bond
-32,BSALF-V,"SALFACORP 4,5% 2032",CLF - Chile UF,RENTA FIJA,Nacional,Fixed Income,Chile,Bond
-33,BSTDU61020,"SANTANDER 2,95% 2026",CLP - Chile Peso,RENTA FIJA,Nacional,Fixed Income,Chile,Bond
-34,BTGCYFA CI EQUITY,BTG PACTUAL CREDITO Y FACTURAS FONDO DE INVERSION,CLP - Chile Peso,RENTA FIJA,Nacional,Fixed Income,Chile,Fund
-35,BTGFGIA CI EQUITY,BTG FINANCIAMIENTO CON GARANTIA INMOBILIARIA FI,CLP - Chile Peso,RENTA FIJA,Nacional,Fixed Income,Chile,Fund
-36,CAJA CLP,CAJA CLP,CLP - Chile Peso,CAJA Y M.M.,Nacional,Liquidity,Chile,Chile
-37,CAP CI EQUITY,CAP S.A.,CLP - Chile Peso,RENTA VARIABLE,Nacional,Equities,Chile,Stock
-38,CASA MARBELLA,CASA MARBELLA,CLF - Chile UF,ACTIVO INMOBILIARIO,Nacional,Alternative,Chile,Chile
-39,CCHIACB CI EQUITY,BTG PACTUAL CHILE ACCION B,CLP - Chile Peso,RENTA VARIABLE,Nacional,Equities,Chile,Fund
-40,CELFFIB CI EQUITY,BTG PACTUAL SMALL CAP CHILE FONDO DE INVERSION,CLP - Chile Peso,RENTA VARIABLE,Nacional,Equities,Chile,Fund
-41,CFIDHS2A CI EQUITY,FONDO DE INV. LV DEUDA HIPOTECARIA CON SUBSIDIO II,CLP - Chile Peso,RENTA FIJA,Nacional,Fixed Income,Chile,Fund
-42,CFIETFCC CI EQUITY,FONDO DE INVERSION ETF SINGULAR CHILE CORPORATIVO,CLP - Chile Peso,RENTA FIJA,Nacional,Fixed Income,Chile,Fund
-43,CFIFALCDCW,FI FALCOM DEUDA CORPORATIVA CHILE W,CLP - Chile Peso,RENTA FIJA,Nacional,Fixed Income,Chile,Fund
-44,CFIFALCFIW,FALCOM CHILEAN FIXED INCOME W,CLP - Chile Peso,RENTA FIJA,Nacional,Fixed Income,Chile,Fund
-45,CFIHMCREPA,HMC RENDIMIENTO ESTRATEGICO PESOS A,CLP - Chile Peso,PRIVATE DEBT,Nacional,Alternative,Chile,Fund
-46,CFILVACIII,HOTELERASH,USD - United States Dollar,PRIVATE EQUITY,Nacional,Alternative,Chile,Fund
-47,CFIMPIO CI EQUITY,MONEDA PIONERO FONDO DE INVERSION,CLP - Chile Peso,RENTA VARIABLE,Nacional,Equities,Chile,Fund
-48,CFIQAC CI EQUITY,QUEST ACCIONES CHILE FONDO DE INVERSION SERIE A,CLP - Chile Peso,RENTA VARIABLE,Nacional,Equities,Chile,Fund
-49,CFIQRGA CI EQUITY,QUEST RENTA GLOBAL A,CLP - Chile Peso,RENTA FIJA,Nacional,Fixed Income,Chile,Fund
-50,CFIQRGH CI EQUITY,QUEST RENTA GLOBAL HEDGE FONDO INVERSION,CLP - Chile Peso,RENTA FIJA,Nacional,Fixed Income,Chile,Fund
-51,CFIRIII CI EQUITY,BTG PACTUAL RENTA COMERCIAL,CLP - Chile Peso,ACTIVO INMOBILIARIO,Nacional,Alternative,Chile,Fund
-52,CFITDPFI-E,"TOESCA DEUDA PRIVADA FACTURAS FI, SER I",CLP - Chile Peso,RENTA FIJA,Nacional,Fixed Income,Chile,Fund
-53,CFITOERRC,TOESCA RENTA RESIDENCIAL C,CLP - Chile Peso,ACTIVO INMOBILIARIO,Nacional,Alternative,Chile,Fund
-54,CFIUSRE CI EQUITY,FONDO DE INVERSION ETF SINGULAR S&P 500,CLP - Chile Peso,RENTA VARIABLE,Internacional,Equities,USA,Large Cap
-55,CFIWEG1 CI EQUITY,FONDO DE INVERSION WEG-1,CLP - Chile Peso,RENTA FIJA,Nacional,Fixed Income,Chile,Fund
-56,CFIWEG-3,FONDO DE INVERSION WEG-3 RENTA Y DESARROLLO RESIDENCIAL,CLP - Chile Peso,ACTIVO INMOBILIARIO,Nacional,Alternative,Chile,Fund
-57,CMONMAR CI EQUITY,BTG PACTUAL MONEY MARKET-A,CLP - Chile Peso,CAJA Y M.M.,Nacional,Liquidity,Chile,Chile
-58,COPEC CI EQUITY,COPEC S.A.,CLP - Chile Peso,RENTA VARIABLE,Nacional,Equities,Chile,Stock
-59,CREDITO FIP BVC DI-1,CREDITO FIP BVC DI-1,CLF - Chile UF,PRIVATE DEBT,Nacional,Alternative,Chile,Fund
-60,CXCASHB CI EQUITY,LV MONETARIO F,CLP - Chile Peso,CAJA Y M.M.,Nacional,Liquidity,Chile,Chile
-61,DEPTO SANTIAGO,DEPARTAMENTO SANTIAGO,CLF - Chile UF,ACTIVO INMOBILIARIO,Nacional,Alternative,Chile,Chile
-62,FALAB CI EQUITY,FALABELLA,CLP - Chile Peso,RENTA VARIABLE,Nacional,Equities,Chile,Stock
-63,FALCTNV CI EQUITY,FALCOM FI TACTICAL CHILE EQUITY C,CLP - Chile Peso,RENTA VARIABLE,Nacional,Equities,Chile,Fund
-64,FI CC INM ACONCAGUA III,FONDO DE INVERSION CC INMOBILIARIO – ACONCAGUA III SERIE B,CLP - Chile Peso,ACTIVO INMOBILIARIO,Nacional,Alternative,Chile,Fund
-65,FI CC PLAZA EGAÑA,FONDO DE INVERSION CREDICORP CAPITAL PLAZA EGAÑA,CLP - Chile Peso,ALTERNATIVE INVESTMENT,Nacional,Alternative,Chile,Fund
-66,FIP APOQUINDO BYG,FIP APOQUINDO BYG,CLP - Chile Peso,ALTERNATIVE INVESTMENT,Nacional,Alternative,Chile,Fund
-67,FIP BVC DI-1,FONDO DE INVERSIÓN PRIVADO BVC DI-1,CLF - Chile UF,ACTIVO INMOBILIARIO,Nacional,Alternative,Chile,Fund
-68,FIP MINERIA ACTIVA III,FIP MINERIA ACTIVA III,USD - United States Dollar,PRIVATE EQUITY,Nacional,Alternative,Chile,Fund
-69,FIP Plusvalía Agrícola Uno,FIP PLUSVALIA AGRICOLA UNO,CLF - Chile UF,ACTIVO INMOBILIARIO,Nacional,Alternative,Chile,Fund
-70,FIP PLUSVALÍA AGRÍCOLA UNO II,FIP VALLE CENTRAL,CLF - Chile UF,ACTIVO INMOBILIARIO,Nacional,Alternative,Chile,Fund
-71,HMCRGBP CI EQUITY,HMC-RENTA GLOBAL PESOS-BP,CLP - Chile Peso,RENTA FIJA,Nacional,Fixed Income,Chile,Fund
-72,IMLIQUF CI EQUITY,FONDO MUTUO CREDICORP CAPITAL LIQUIDEZ F,CLP - Chile Peso,CAJA Y M.M.,Nacional,Liquidity,Chile,Chile
-73,IMLIQUI CI EQUITY,FONDO MUTUO CREDICORP CAPITAL LIQUIDEZ B,CLP - Chile Peso,CAJA Y M.M.,Nacional,Liquidity,Chile,Chile
-74,INVEXANS CI EQUITY,INVEXANS SA,CLP - Chile Peso,RENTA VARIABLE,Nacional,Equities,Chile,Stock
-75,IVSXCSH CI EQUITY,LARRAIN VIAL MONETARIO A,CLP - Chile Peso,CAJA Y M.M.,Nacional,Liquidity,Chile,Chile
-76,LV SALUD UNO SPA,LV SALUD UNO SPA,CLP - Chile Peso,PRIVATE EQUITY,Nacional,Alternative,Chile,Fund
-77,LVDEPRU CI EQUITY,FI LARRAINVIAL DEUDA PRIVADA,CLP - Chile Peso,RENTA FIJA,Nacional,Fixed Income,Chile,Fund
-78,LVPARI1 CI EQUITY,LV PATIO RENTA INMOBILIARIA,CLP - Chile Peso,ACTIVO INMOBILIARIO,Nacional,Alternative,Chile,Fund
-79,MBIDTB CI EQUITY,MBI DEUDA TOTAL FONDO DE INVERSION B,CLP - Chile Peso,RENTA FIJA,Nacional,Fixed Income,Chile,Fund
-80,MODUECH CI EQUITY,MONEDA DEUDA CHILE FONDO DE INVERSION,CLP - Chile Peso,RENTA FIJA,Nacional,Fixed Income,Chile,Fund
-81,MORCLPR CI EQUITY,MONEDA RENTA CLP SERIE R,CLP - Chile Peso,RENTA FIJA,Nacional,Fixed Income,Chile,Fund
-82,MRCLP CI EQUITY,MONEDA RENTA CLP,CLP - Chile Peso,RENTA FIJA,Nacional,Fixed Income,Chile,Fund
-83,NITRATOS CI EQUITY,NITRATOS DE CHILE SA,CLP - Chile Peso,RENTA VARIABLE,Nacional,Equities,Chile,Stock
-84,NUTRAVAL CI EQUITY,INVERSIONES NUTRAVALOR SA,CLP - Chile Peso,RENTA VARIABLE,Nacional,Equities,Chile,Stock
-85,OROB CI EQUITY,SOC INV ORO BLANCO SA,CLP - Chile Peso,RENTA VARIABLE,Nacional,Equities,Chile,Stock
-86,PAGARE BYG 3,PAGARE PC CLP 0.70% MENSUAL,CLP - Chile Peso,ALTERNATIVE INVESTMENT,Nacional,Alternative,Chile,
-87,SANMNMK CI EQUITY,SANTANDER MONEY MARKET UNIVERSAL,CLP - Chile Peso,CAJA Y M.M.,Nacional,Liquidity,Chile,Chile
-88,SECPLUC CI EQUITY,FONDO MUTUO SECURITY PLUS C,CLP - Chile Peso,CAJA Y M.M.,Nacional,Liquidity,Chile,Chile
-89,SMRKTEJ CI EQUITY,SANTANDER MONEY MARKET EJECUTIVA,CLP - Chile Peso,CAJA Y M.M.,Nacional,Liquidity,Chile,Chile
-90,SOPROC CI EQUITY,SOPROCAL CALERIAS E INDUSTRIAS SA,CLP - Chile Peso,RENTA VARIABLE,Nacional,Equities,Chile,Stock
-91,SQM/B CI EQUITY,SOQUIMICH B,CLP - Chile Peso,RENTA VARIABLE,Nacional,Equities,Chile,Stock
-92,TCHIEQB CI EQUITY,TOESCA CHILE EQUITY B,CLP - Chile Peso,RENTA VARIABLE,Nacional,Equities,Chile,Fund
-93,TOERIMA CI EQUITY,TOESCA RENTA INMOBILIARIA FONDO DE INVERSION,CLP - Chile Peso,ACTIVO INMOBILIARIO,Nacional,Alternative,Chile,Fund
-94,TOESCA CI EQUITY,TOESCA SMALL CAP CHILE-A,CLP - Chile Peso,RENTA VARIABLE,Nacional,Equities,Chile,Fund
-95,VAPORES CI EQUITY,VAPORES,CLP - Chile Peso,RENTA VARIABLE,Nacional,Equities,Chile,Stock
-96,VENTANA CI EQUITY,PUERTO VENTANAS SA,CLP - Chile Peso,RENTA VARIABLE,Nacional,Equities,Chile,Stock
-97,XS2388378981 CORP,BANCO SANTANDER SA,EUR - Euro Member Countries Euro,RENTA FIJA,Internacional,Fixed Income,Europe,Bond
-98,XSMC SW EQUITY,X SWITZERLAND 1C,CHF,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Fund
-99,XUCD LN EQUITY,X MSCI USA CONS DISCR 1D,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Fund
-100,XUFN LN EQUITY,X MSCI USA FINANCIALS,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Fund
-101,XUHC LN EQUITY,X MSCI USA HEALTH CARE 1D,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Fund
-102,Z US EQUITY,ZILLOW GROUP INC - C,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-103,2112305D US EQUITY,APOLLO DEBT SOLUTIONS DBC,USD - United States Dollar,PRIVATE DEBT,Internacional,Alternative,Private Debt,Private Debt
-104,AAPL US EQUITY,APPLE INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-105,AAXJ US EQUITY,ISHARES MSCI ALL COUNTRY ASIA EX JAPAN,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Asia ex Japan,Other
-106,ACMEIID LX EQUITY,ALLIANCEBERNSTEIN EUROPEAN INCOME PORTFOLIO FUND CLASS I,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Europe,Fund 
-107,ACWI US EQUITY,MSCI ALL COUNTRY WORLD,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Large Cap
-108,ADBE US EQUITY,ADOBE SYSTEMS INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-109,ADP US EQUITY,AUTOMATIC DATA PROCESSING,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-110,ADSK US EQUITY,AUTODESK INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-111,AIRR US EQUITY,FIRST TRUST RBA AMERICAN INDUSTRIAL RENAISSANCE ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Small Cap
-112,ALAB US EQUITY,ASTERA LABS INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-113,AMD US EQUITY,ADVANCED MICRO DEVICES,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-114,AMZN US EQUITY,AMAZON.COM,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-115,ANET US EQUITY,ARISTA NETWORKS INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-116,APP US EQUITY,APPLOVIN CORP-CLASS A,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-117,ARKG US EQUITY,ARK GENOMIC REVOLUTION ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Fund
-118,ARKK US EQUITY,ARK INNOVATION ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Fund
-119,ASHR US EQUITY,XTRACKERS HARVEST CSI 300 CH,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Asia ex Japan,China
-120,ASML US EQUITY,ASML HOLDING N.V.,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Stock
-121,ATROB US EQUITY,ASTRONICS CORP-CL B,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-122,AVGO US EQUITY,BROADCOM INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-123,AXP US EQUITY,AMERICAN EXPRESS CO,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-124,AXUSHZA LX EQUITY,AXA IM FIIS-US SH DU HY-Z,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,USA HY,Fund
-125,BA US EQUITY,BOEING CO/THE,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-126,BCIDCAA CI EQUITY,BCI DOLAR CASH SERIE CLASICA,USD - United States Dollar,CAJA Y M.M.,Internacional,Liquidity,Liquidity,Liquidity
-127,BEUD2UH LX EQUITY,BGF EUROPEAN FUND CLASS D2 USD HEDGED,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Open-End Fund
-128,BGUHD2U LX EQUITY,BLACKROCK USD HY BD USD ACC M,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US HY,Fund
-129,BIUSUPS ID EQUITY,BLACKROCK ICS US ULTR SHRT-PRM ACC,USD - United States Dollar,CAJA Y M.M.,Internacional,Liquidity,Liquidity,Liquidity
-130,BKR US EQUITY,BAKER HUGHES CO,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-131,BLACKSTONE PARTNERS,BLACKSTONE SEGREGATED PORTFOLIO,USD - United States Dollar,PRIVATE DEBT,Internacional,Alternative,Private Debt,Private Debt
-132,BLACKSTONE REAL ESTATE INCOME-TRUST,BLACKSTONE REAL ESTATE INCOME-TRUST,USD - United States Dollar,ACTIVO INMOBILIARIO,Internacional,Alternative,Real Estate,Real Estate
-133,BLKCHC2 LX EQUITY,BGF CHINA FUND-C2 USD,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Asia ex Japan,China
-134,BLUEMOUNTAIN CREDIT ALTERNATIVE,BLUEMOUNTAIN CREDIT ALTERNATIVE FUND CLASS S,USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
-135,BMANDOA CI EQUITY,BICE LIQUIDEZ DOLAR CLASICA,USD - United States Dollar,CAJA Y M.M.,Internacional,Liquidity,Liquidity,Liquidity
-136,BNUHULA ID EQUITY,BNY MELLON EFFICIENT U.S. HIGH YIELD BETA FUND,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US HY,Fund
-137,BOTZ US EQUITY,GLOBAL X ROBOTICS & ARTIFICIAL INTELLIGENCE ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Sector 
-138,BRANEEI ID EQUITY,BRANDES EUROPEAN VALUE CLASS I,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Open-End Fund
-139,BRJE1JY ID EQUITY,BLACKROCK INST POOLED EQUITY 1 JAPAN ACC J,JPY - Japan Yen,RENTA VARIABLE,Internacional,Equities,#N/A Mandatory parameter [FIELD] cannot be empty,Open-End Fund
-140,BRZE US EQUITY,BRAZE INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-141,BSX US EQUITY,BOSTON SCIENTIFIC CORP,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-142,BX US EQUITY,BLACKSTONE GROUP LP,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-143,CAJA CHF,CAJA CHF,CHF - Switzerland Franc,CAJA Y M.M.,Internacional,Liquidity,Liquidity,Liquidity
-144,CAJA EUR,CAJA EUR,EUR - Euro Member Countries Euro,CAJA Y M.M.,Internacional,Liquidity,Liquidity,Liquidity
-145,CAJA USD,CAJA USD,USD - United States Dollar,CAJA Y M.M.,Internacional,Liquidity,Liquidity,Liquidity
-146,CAMARONEX,PAMPA CAMARONES SPA,USD - United States Dollar,RENTA VARIABLE,Nacional,Equities,Chile,Chile
-147,CAVA US EQUITY,CAVA GROUP INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-148,CCL US EQUITY,CARNIVAL CORP,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-149,CCLACDI LX EQUITY,CREDICORP CAPITAL LATIN AMERICAN DEBT FUND I,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Fund
-150,CCLIGIU LX Equity,CREDICORP LA AM IV GD-I USD,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Fund
-151,CCMMDOA CI EQUITY,BTG PACTUAL M.M DOLAR A,USD - United States Dollar,CAJA Y M.M.,Internacional,Liquidity,Liquidity,Liquidity
-152,CELH US EQUITY,CELSIUS HOLDINGS INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-153,CEUU NA EQUITY,ISHARES CORE MSCI EMU UCITS ETF ACCUM SHS HEDGED USD,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Fund  
-154,CFI-BTGHLB,BTG PACTUAL HAMILTON LANE GPA FI SERIE B,USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
-155,CFIEHTR-E,FONDO DE INVERSION EUROPE MEDNEO HEALTH TECH - R,EUR - Euro Member Countries Euro,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
-156,CFIEPONN-E,F.I. EUROPE PHARMA ONLINE 	NS,EUR - Euro Member Countries Euro,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
-157,CFIEPONP-E,F.I. EUROPE PHARMA ONLINE P,EUR - Euro Member Countries Euro,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
-158,CFIEPONR-E,F.I. EUROPE PHARMA ONLINE R,EUR - Euro Member Countries Euro,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
-159,CFIEPONS-E,F.I. EUROPE PHARMA ONLINE S,EUR - Euro Member Countries Euro,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
-160,CFI-FMVPBE,FALCOM PORTFOLIO ADVISORS MVP PRIV EQUITY B,USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
-161,CFI-HMCBPE,"FI HMC SECONDARIES CDR X, SERIE BP",USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
-162,CFI-HMREDA,FI HMC RENDIMIENTO ESTRATEGICO DOLAR A,USD - United States Dollar,PRIVATE DEBT,Internacional,Alternative,Private Debt,Private Debt
-163,CFI-HRGDBP,"FI HMC RENTA GLOBAL USD, SERIE BP",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US HY,Fund
-164,CFIIMDL CI EQUITY,MONEDA DEUDA LATAM,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Fund
-165,CFI-MBPDUA,MBI PRIVATE DEBT US EVERGREEN,USD - United States Dollar,PRIVATE DEBT,Internacional,Alternative,Private Debt,Private Debt
-166,CFI-MBPDUI,MBI PRIVATE DEBT US EVERGREEN SERIE I,USD - United States Dollar,PRIVATE DEBT,Internacional,Alternative,Private Debt,Private Debt
-167,CFIMDLIG-A,"MONEDA LATAM CORPORATE CREDIT FEEDER FI, A",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Fund
-168,CFIMSCL CI EQUITY,MONEDA S/C LATINOAMERICA,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,LATAM,Latam
-169,CFIOTVA-E,FONDO DE INVERSION OLIVE TREE VENTURES A,USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
-170,CFIOTVB-E,FONDO DE INVERSION OLIVE TREE VENTURES B,USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
-171,CFIPIPOA-E,FONDO DE INVERSION PRE-IPO OPPORTUNITIES MVP SERIE A,USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
-172,CFIPIPOC-E,FONDO DE INVERSION PRE-IPO OPPORTUNITIES MVP SERIE C,USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
-173,CFIQRGB CI EQUITY,QUEST RENTA GLOBAL FONDO DE INV SERIE B,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Global,Fund
-174,CH0361532945 CORP,ZUERCHER KANTONALBANK 3.6% PERPETUA,CHF - Switzerland Franc,RENTA FIJA,Internacional,Fixed Income,Europe,Bond
-175,CH0506668869 CORP,UBS GROUP BG 3% PERPETUAL,CHF - Switzerland Franc,RENTA FIJA,Internacional,Fixed Income,Europe,Bond
-176,CHGRGLA CI EQUITY,QUEST RENTA GLOBAL FONDO DE INV SERIE A,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Global,Fund 
-177,CLS US EQUITY,CELESTICA INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-178,CMOD LN EQUITY,INVESCO BLOOMBERG COMMODITY,USD - United States Dollar,COMMODITY,Internacional,Alternative,Commodity,Commodity
-179,COHR US EQUITY,COHERENT CORP,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-180,COIN US EQUITY,COINBASE GLOBAL INC -CLASS A,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-181,COMPASS FIP EQUITY IV,COMPASS PRIVATE EQUITY IV PIMCO BRAVO II,USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
-182,COMPASS FIP EQUITY V,COMPASS PRIVATE EQUITY V LEXING MIDDLE MARKET III,USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
-183,COMPASS FIP EQUITY VII,COMPASS PRIVATE EQUITY VII,USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
-184,CPAY US EQUITY,CORPAY INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-185,CPXJ LN EQUITY,ISHARES MSCI PACIFIC EX JAPAN UCITS ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Asia ex Japan,Fund
-186,CRESTVIEW III PRIVATE INVESTORS OFFSHORE L.P.,CRESTVIEW III PRIVATE INVESTORS OFFSHORE L.P.,USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
-187,CRM US EQUITY,SALESFORCE INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-188,CRTSORB KY EQUITY,CS BLUE OWL TECHNOLOGY INCOME FUND SPC,USD - United States Dollar,PRIVATE DEBT,Internacional,Alternative,Private Debt,Private Debt
-189,CRWD US EQUITY,CROWDSTRIKE HOLDINGS INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-190,CSCO US EQUITY,CISCO SYSTEMS INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-191,CSEMU SW EQUITY,ISHARES CORE MSCI EMU EUR A,EUR - Euro Member Countries Euro,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Fund
-192,CSIFGEA SW EQUITY,CREDIT SUISSE INDEX FUND (CH) II UMBRELLA - CSIF (CH) II GOLD BLUE,USD - United States Dollar,COMMODITY,Internacional,Alternative,Commodity,Commodity
-193,CSINDU SW EQUITY,SHARES DOW JONES INDUSTRIAL AVERAGE UCITS ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Large Cap
-194,CSLACAU LX EQUITY,CREDIT SUISSE LUX LATIN AMERICAN CORPORATE BOND FUND,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Fund
-195,CSNDX SW EQUITY,ISHARES NASDAQ 100 USD ACC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Large Cap
-196,CSPX LN EQUITY,ISHARES CORE S&P 500 UCITS ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Large Cap
-197,CSREAFD KY EQUITY,CS RENAISSANCE EQUITY ACCESS FUND LTD,USD - United States Dollar,ALTERNATIVE INVESTMENT,Internacional,Alternative,Hedge Fund,Hedge Fund
-198,CSREITB KY EQUITY,BLACKSTONE REIT ACCESS FUND SPC,USD - United States Dollar,ACTIVO INMOBILIARIO,Internacional,Alternative,Real Estate,Real Estate
-199,CYBU NA EQUITY,ISHARES CHINA CNY BOND ETF USDH DIS ETF,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Other,Fund
-200,DDOG US EQUITY,DATADOG INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-201,DE US EQUITY,DEERE & CO,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-202,DIA US EQUITY,SPDR DOW JONES INDUSTRIAL AVERAGE ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Large Cap
-203,DT US EQUITY,DYNATRACE INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-204,DTLA LN EQUITY,ISHARES TREAS BD 20 YR UCITS ETF,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Fund
-205,DWSTAA2 LX EQUITY,DWS INVEST TOP 50 ASIA,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Asia ex Japan,Other
-206,ELF US EQUITY,ELF BEATY INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-207,EMCA LN EQUITY,ISHARES JP MORGAN USD EM CORP BOND UCITS ETF,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Emerging,Fund
-208,EMERGING MARKET CURRENCY FUND CLASS C,EMERGING MARKET CURRENCY FUND CLASS C,USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
-209,EPOL US EQUITY,ISAHRES MSCI POLAND ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Fund
-210,EQAC SW EQUITY,INVESCO EQQQ NASDAQ 100 ETF ACC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Large Cap
-211,ESIC GY EQUITY,ISHARES EUROPE CONS DIS EURA ETF,EUR - Euro Member Countries Euro,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Fund
-212,ESIF GY EQUITY,ISHARES MSCI EURO FIN SECT EUR ACC ETF,EUR - Euro Member Countries Euro,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Sector
-213,ESIH GY EQUITY,ISHARES MSCI EURO HEALTH SECT ETF,EUR - Euro Member Countries Euro,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Sector
-214,ESIN GY EQUITY,ISHARES MSCI EU INDSTRIAL EUR ACC ETF,EUR - Euro Member Countries Euro,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Sector
-215,ESIS GR EQUITY,ISHARES MSCI EURO CON STPL SECT ETF,EUR - Euro Member Countries Euro,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Sector
-216,ESIT GY EQUITY,ISHARES MSCI EURO IT SECT ETF,EUR - Euro Member Countries Euro,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Sector
-217,ESJCOMR LX EQUITY,EST INV JP SM COM FN-RUUNHD,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,#N/A Mandatory parameter [FIELD] cannot be empty,Open-End Fund
-218,ETN US EQUITY,EATON CORP,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-219,EWJ US EQUITY,ISHARES MSCI JAPAN,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Japan,Japan
-220,EWJV US EQUITY,ISHARES MSCI JAPAN VALUE ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Japan,Japan
-221,EWU US EQUITY,ISHARES MSCI UNITED KINGDOM ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,UK,UK
-222,EWZ US EQUITY,ISHARES BRAZIL,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,LATAM,Latam
-223,FFUSGCU LX EQUITY,JPMORGAN F-US GROWTH-D,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Large Cap
-224,FFUSVCU LX EQUITY,JPMORGAN F-JPM US VALUE-D,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Large Cap
-225,FLEFAMC LX EQUITY,JPM AMERICA EQUITY D,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Open-End Fund
-226,FOFVIAU CI EQUITY,FONDO DE INVERSION F2 VC III,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Asia ex Japan,Sector
-227,FRAFRAA ID EQUITY,FRANKLIN FLOATING RATE FUND PLC A,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Fund
-228,FRAINNA LX EQUITY,FRANKLIN  INDIA FUND CLASS N,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Asia ex Japan,India
-229,FXI US EQUITY,ISHARES MSCI CHINA,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Asia ex Japan,China
-230,GEV US EQUITY,GE VERNOVA,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-231,GILD US EQUITY,GILEAD SCIENCES INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-232,GIND US EQUITY,GOLDMAN SACHS INDIA EQUITY ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Asia ex Japan,India
-233,GLBE US EQUITY,GLOBAL-E ONLINE LTD,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-234,GLD US EQUITY,SPDR GOLD SHARES,USD - United States Dollar,COMMODITY,Internacional,Alternative,Commodity,Commodity
-235,GLUH NA EQUITY,ISHARES II PLC - ISHARES CORE UK GI ETF,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Europe,Fund
-236,GOLDMAN SACHS GROUP INC SR NTS MTN ZERO CPN 01/24/2040,GOLDMAN SACHS GROUP INC SR NTS MTN ZERO CPN 01/24/2040,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Fund
-237,GOOGL US EQUITY,ALPHABET INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-238,GSIEPAU LX EQUITY,GOLDMAN SACHS INDIA EQUITY PORTFOLIO,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Asia ex Japan,India
-239,GSIERUA LX EQUITY,GOLDMAN SACHS INDIA EQUITY PORTFOLIO R,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Asia ex Japan,India
-240,GTM US EQUITY,ZOOMINFO TECHNOLOGIES INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-241,GWRE US EQUITY,GUIDEWIRE SOFTWARE INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-242,HCOM US EQUITY,HARTFORD SCHRODERS COMMODITY,USD - United States Dollar,COMMODITY,Internacional,Alternative,Commodity,Commodity
-243,HIGH LN EQUITY,ISHARES EUR HY CORP USD-H A,EUR - Euro Member Countries Euro,RENTA FIJA,Internacional,Fixed Income,Europe,Fund
-244,HSAS5CH ID EQUITY,HSBC GLOBAL FUNDS ICAV HSBC GLB AGG BD ID USD ACC S5CH DOI,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Other,Fund
-245,HST US EQUITY,HOST HOTELS & RESORTS INC,USD - United States Dollar,ACTIVO INMOBILIARIO,Internacional,Alternative,Real Estate,Real Estate
-246,HTEC US EQUITY,ROBO GLOBAL HEALTTHCARE TECHNOLOGY AND INNOVATION ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Sector
-247,HUM US EQUITY,HUMANA INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-248,HYGU LN EQUITY,ISHARES EUR HIGH YIELD CORP BOND UC,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Europe,Fund
-249,IBIT US EQUITY,ISHARES BITCOIN ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Fund
-250,IBM US EQUITY,INTERNATIONAL BUSINESS MACHINES CORP,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-251,ICDVAMC CI EQUITY,AMERIS DVA MULTIAXIS FONDO DE INVERSION C,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Large Cap
-252,IEAU NA EQUITY,ISHARES CORE EUR CORP BOND UCITS,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Europe,Fund
-253,ILF US EQUITY,ISHARES S&P LATIN AMERICA 40,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,LATAM,Latam
-254,INLACAA LX EQUITY,NINETY ONE GSF LATIN AMERICAN CORPORATE DEBT FUND CLASS A,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Fund
-255,INLACIA LX EQUITY,NINETY ONE GSF LATIN AMERICAN CORPORATE DEBT FUND CLASS I,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Fund
-256,INLACII LX EQUITY,NINETY ONE LATIN AMERICAN CORPORATE DEBT I INC-2,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Fund
-257,INSM US EQUITY,INSMED INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-258,INULINI ID EQUITY,INVESCO US DOLLAR LIQDTY PORTFOLIO INSTL ACC,USD - United States Dollar,CAJA Y M.M.,Internacional,Liquidity,Liquidity,Liquidity
-259,INULPSU ID EQUITY,INVESCO US DOLLAR LIQDTY PORT SELECT ACC,USD - United States Dollar,CAJA Y M.M.,Internacional,Liquidity,Liquidity,Liquidity
-260,ISAC LN EQUITY,ISHARES MSCI ACWI UCITS ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Large Cap
-261,ISRG US EQUITY,INTUITIVE SURGICAL INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-262,ITA US EQUITY,ISHARES US AEROSPACE & DEFENSE ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Sector
-263,IWM US EQUITY,ISHARES RUSSELL 2000,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Small Cap
-264,IWO US EQUITY,ISHARES RUSSELL 2000 GRWTH ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Small Cap
-265,IYJ US EQUITY,ISHARES DJ INDUSTRIAL,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Large Cap
-266,IYW US EQUITY,ISHARES DJ TECHNOLOGY,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Sector
-267,JNCVFAA ID EQUITY,JP MANSRT CANADA ACC A,CAD - Canada Dollar,RENTA VARIABLE,Internacional,Equities,USA,Open-End Fund
-268,JPALPDU LX EQUITY,JPM ASIA GROWTH D,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Asia ex Japan,Other
-269,JPEA LN EQUITY,ISHARES J.P. MORGAN USD EM BOND UCITS ETF,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Emerging,Fund
-270,JPGHYBC LX EQUITY,JPMORGAN INVESTMENT FUNDS GLOBAL HIGH YIELD BOND,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Global,Fund 
-271,JPMAIUA LX EQUITY,JPM MULTI-MANAGER ALT USD ACC I2,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Other,Fund
-272,JPMEEAU LX EQUITY,JPMORGAN EUROPE EQUITY FUND CLASS A,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Open-End Fund
-273,JPMEEBU LX EQUITY,JPM EUROPE EQUITY FUND CLASS C,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Open-End Fund
-274,KNSL US EQUITY,KINSALE CAPITAL GROUP INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-275,KVYO US EQUITY,KLAVIYO INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-276,LAACDZU LX EQUITY,NINETY ONE GLOBAL STRATEGY FUND- LATIN AMERICAN CORPORATE DEBT FUND,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Fund
-277,LASDIUA ID EQUITY,LORD ABBETT SHORT DUR INCOME FUND A,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Fund
-278,LASDUIA ID EQUITY,LORD ABBETT GLOBAL FUND I PLC,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Fund
-279,LASDUZA ID EQUITY,LORD ABBETT SHORT DURATION INCOME FUND CLASS Z,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Fund
-280,LAUSBAA ID EQUITY,LORD ABBETT ULTRA SHT BD A ACC,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Fund
-281,LFEGUBA LX EQUITY,LUMYNA EURO DEBT GOVT USD ACC B,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Europe,Fund
-282,LFUCUBA LX EQUITY,LUMYNA AMER DEBT CREDIT USD ACC B,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Fund
-283,LFUGUBA LX EQUITY,LUMYNA AMERICAN DEBT GOVERNMENT UCITS FUND,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Fund
-284,LLDYX US EQUITY,LORD ABBETT SHRT DUR INC-I,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Fund
-285,LLY US EQUITY,ELI LILLY & CO,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-286,LQD US EQUITY,ISHARES IBOXX INVESTMENT GRADE CORP BOND ETF,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Fund
-287,LQDA LN EQUITY,ISHARES USD CORP BOND UCITS ETF,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Fund
-288,LSMMEQI LX EQUITY,LARRAIN VIAL LATIN AMERICAN EQUITY FUND,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,LATAM,Open-End Fund
-289,LUBAX US EQUITY,LORD ABBETT ULTRA SHORT BOND A (DIS),USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Fund
-290,LVAHDOF CI EQUITY,LARRAIN VIAL AHORRO DOLAR F,USD - United States Dollar,CAJA Y M.M.,Internacional,Liquidity,Liquidity,Liquidity
-291,LVMOMAA CI EQUITY,FM LARRAIN VIAL MONEY MARKET A,USD - United States Dollar,CAJA Y M.M.,Internacional,Liquidity,Liquidity,Liquidity
-292,LVMOMAI CI EQUITY,FM LARRAIN VIAL MONEY MARKET I,USD - United States Dollar,CAJA Y M.M.,Internacional,Liquidity,Liquidity,Liquidity
-293,MCHP US EQUITY,MICROCHIP TECHNOLOGY INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-294,MDB US EQUITY,MONGODB INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-295,MDRAGCA LX EQUITY,BGF-ASIAN DRAGON-C2 USD,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Asia ex Japan,Other
-296,MEMDIU1 LX EQUITY,MFS EMERGING MARKETS DEBT FUND - I1,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Emerging,Fund
-297,MEMDW1U LX EQUITY,MFS EMERGING MARKETS DEBT FUND W SHARES,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Emerging,Fund
-298,MERCATI LX EQUITY,BLACKROCK US DOLLAR HIGH YIELD,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,USA HY,Fund
-299,MESLU LX EQUITY,BLACKROCK GLOBAL EUROPEAN FUND A2,EUR - Euro Member Countries Euro,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Open-End Fund
-300,META US EQUITY,META PLATAFORMS INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-301,MFA1USD LX EQUITY,MFS MERIDIAN U.S. CORPORATE BOND FUND CLASS A1,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Fund
-302,MFECA1U LX Equity,MFS MER EURO CREDIT-A1 USD,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Europe,Fund
-303,MFI1USD LX EQUITY,MFS MERIDIAN U.S. CORPORATE BOND FUND CLASS I1,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Fund
-304,MFLMIU1 LX EQUITY,MFS MERIDIAN FUNDS LIMITED MATURITY FUND,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Fund
-305,MFLMW1U LX EQUITY,MFS MERIDIAN LIMITED MATURITY FUND CLASS W1 (USD),USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Fund
-306,MFMRBAR LX EQUITY,MFS MERIDIAN TOTAL RETURN BOND FUND,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Fund
-307,MFPCA1U LX EQUITY,MFS MER-PRUDENT CAP-A1USD,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Global,Fund 
-308,MFSEDA1 LX EQUITY,MFS MERIDIAN EMERGING MARKETS DEBT FUND A1,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Emerging,Fund
-309,MIGOEAE LX EQUITY,BGF-CONT EUR FLX-A2 EUR,EUR - Euro Member Countries Euro,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Other
-310,MIGRANTE SERIE A-1,MIGRANTE SERIE A-1,USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
-311,MIGRANTE SERIE B-1,MIGRANTE SERIE B-1,USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
-312,MIGSDCA LX EQUITY,BGF US DOLLAR RESERVE C,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Fund
-313,MIGSEUI LX EQUITY,BGF-EUROPEAN FUND-A2 USD,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Other
-314,MLATAMD KY EQUITY,MONEDA LATIN AMERICAN CORPORATE DEBT FUND,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Fund
-315,MLEUCCC LX EQUITY,BGF-EUROPEAN-C2 USD,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Other
-316,MLGCUBA LX EQUITY,LUMYNA GLB DBT CRDIT ACC B,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Other,Fund
-317,MLGDUBA LX EQUITY,LUMYNA -GLOBAL DEBT-GOVT UCITS FD LUMY GLB DBT GOVNM UCITS USD ACC B,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Other,Fund
-318,MLGSUBA LX EQUITY,LUMYNA- GLB DBT SECUR UCITS ACC B,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Fund
-319,MLJVA2U LX EQUITY,BGF JAPAN FLEXIBLE EQUITY FUND,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Japan,Japan
-320,MLJVC2U LX EQUITY,BGF-JAPAN FLX E-C2 USD CAP,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Japan,Japan
-321,MOCCIAU LX EQUITY,MONEDA LUX LATIN AME CREDIT II FUND,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Fund
-322,MOCCIIU LX EQUITY,"MONEDA LATAM CORPORATE CREDIT FEEDER FI, I",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Fund
-323,MOCCIU LX EQUITY,MONEDA LUX LATIN AME CREDIT II I FUND,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Fund
-324,MORITAI LX EQUITY,MS IF-EUROPEAN H/Y BD FD-A,EUR - Euro Member Countries Euro,RENTA FIJA,Internacional,Fixed Income,Europe,Fund
-325,MSFT US EQUITY,MICROSOFT CORP,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-326,MSTEUCA LX EQUITY,MSIF-EUROPE OPP-A EUR,EUR - Euro Member Countries Euro,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Other
-327,MU US EQUITY,MICRON TECHNOLOGY INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-328,MUSHYCA LX EQUITY,BGF-USD HIGH YIELD BOND,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,USA HY,Fund
-329,MUZEUHR ID EQUITY,MUZINICH FD - ENHANCED YIELD SHORT,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Fund
-330,MVP ALL-STAR FUND IV-C,MVP ALL-STAR FUND IV-C,USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
-331,MWMOPPU ID EQUITY,ACCUM PTG.SHS -A- USD MARSHALL WACE FUNDS PLC - MW GLOBAL OPPORTUNITIES FUND,USD - United States Dollar,ALTERNATIVE INVESTMENT,Internacional,Alternative,Hedge Fund,Hedge Fund
-332,NANO CUANTUM GROUP,NANO CUANTUM GROUP,USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
-333,NDIA LN EQUITY,ISHARES MSCI INDIA UCITS ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Asia ex Japan,India
-334,NEE US EQUITY,NEXTERA ENERGY INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-335,NELSEUI ID EQUITY,NEUBERGER BERMAN INVESTMENT NB US L/S I3 ACC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Open-End Fund
-336,NEORENTAS NORTH COLONY SEIS,NEORENTAS NORTH COLONY SEIS,USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
-337,NFLX US EQUITY,NETFLIX,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-338,NKE US EQUITY,NIKE INC -CL B,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-339,NTRA US EQUITY,NATERA INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-340,NUSHYAU ID EQUITY,NOMURA IRELAND U.S. HIGH YIELD BOND FUND CLASS A,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US HY,Fund
-341,NUSHYIU ID EQUITY,NOMURA-US HIGH YLD BD-I USD,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,USA HY,Fund
-342,NVDA US EQUITY,NVIDIA CORP,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-343,NXPI US EQUITY,NXP SEMICONDUCTORS NV,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Stock
-344,ODFL US EQUITY,OLD DOMINION FREIGHT LINES INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-345,OLIVE TREE VENTURES I LP,OLIVE TREE VENTURES I LP,USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
-346,ON US EQUITY,ON SEMICONDUCTOR CORP,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-347,ORCL US EQUITY,ORACLE CORP,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-348,PBIINEY ID EQUITY,PINEBRIDGE INVEST INDIA EQ Y HELD BY EUROCLEAR,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Asia ex Japan,India
-349,PEP US EQUITY,PEPSICO INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-350,PFIFGEA LX EQUITY,PICTET - GLOABAL EMERGING DEB,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Emerging,Fund
-351,PIAHYEI ID EQUITY,PIMCO-ASIA HIGH YLD BD-E INC,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Asia ex Japan,Fund  
-352,PIMINEA ID EQUITY,PIMCO GIS INCOME FUND CLASS E,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Fund
-353,PIMMOIA ID EQUITY,PIMCO MORTGAGE OPPORTUNITIES FUND,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,ABS,Fund
-354,PINS US EQUITY,PINTEREST INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-355,PIPUCAI LX EQUITY,PICTET SHORT-TERM MONEY MARKET FUND,USD - United States Dollar,CAJA Y M.M.,Internacional,Liquidity,Liquidity,Liquidity
-356,PLTR US EQUITY,PALANTIR TECHNOLOGIES INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-357,PM US EQUITY,PHILIP MORRIS INTERNATIONAL,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-358,PMMUSDI SW EQUITY,PICTET CH-SHORT TERM MONEY MARKET USD,USD - United States Dollar,CAJA Y M.M.,Internacional,Liquidity,Liquidity,Liquidity
-359,PPA US EQUITY,INVESCO AEROSPACE & DEFENSE ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Sector
-360,PWR US EQUITY,QUANTA SERVICES INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-361,QQQ US EQUITY,INVESCO QQQ TRUST,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Large Cap
-362,RCMEATU LX EQUITY,ALLIANZ GL INVEST SICAV EUR,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Other
-363,RDVY US EQUITY,FIRST TRUST RISING DIVIDEND ACHIEVERS ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Small Cap
-364,RH US EQUITY,RESTORATION HARDWARE HOLDINGS INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-365,ROBO US EQUITY,GLOBAL ROBOTICS AND AUTOMATION INDEX ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Japan,Sector
-366,RS GLOBAL ENERGY AND POWER PRIVATE INVESTORS L.P.,RS GLOBAL ENERGY AND POWER PRIVATE INVESTORS L.P.,USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
-367,RSPD US EQUITY,INVESCO S&P 500 EQUAL WEIGHT,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Large Cap
-368,SCASICU LX EQUITY,SCHRODER ISF ALTERNATIVE SECURITISED INCOME FUND CLASS C,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,ABS,Fund
-369,SCASIUI LX EQUITY,SCHRODER ISF ALTERNATIVE SECURITISED INCOME FUND CLASS i,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,ABS,Fund
-370,SCHASNY LX EQUITY,SCHRODER ISF ALTERNATIVE SECURITISED INCOME,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,ABS,Fund
-371,SCHICCA LX EQUITY,SCHRODER ISF SECURITISED CREDIT C ACC,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,ABS,Fund
-372,SCHPFAA LX EQUITY,SCHRODER INT SELEC FUND ASIAN OPPORTUNITIES,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Asia ex Japan,Other
-373,SCHPFCA LX EQUITY,SCHRODER ASIAN OPPORTUNITIES,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Asia ex Japan,Other
-374,SCHW US EQUITY,SCHWAB (CHARLES) CORP,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-375,SCSPECU LX EQUITY,SCHRODER GA II SPE PE-CUSD,USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
-376,SDVY LN EQUITY,FIRST TRUST GLOBAL SMID RISING DIVIDEND ACHIEVERS ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Small Cap
-377,SDVY US EQUITY,FIRST TRUST SMID CAP RISING DIVIDEND ACHIEVERS ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Large Cap
-378,SECDOLMM CI EQUITY,FM SECURITY DOLAR MM SERIE A,USD - United States Dollar,CAJA Y M.M.,Internacional,Liquidity,Liquidity,Liquidity
-379,SGIPAUA LX EQUITY,SCHRODER GA II GLB INN PR-AUA,USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
-380,SHOP US EQUITY,SHOPIFY INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-381,SHS CS REAL ESTATE SICAV-SIF I - CREDIT SUISSE,SHS CS REAL ESTATE SICAV-SIF I - CREDIT SUISSE EUROPEAN PROPERTY FUND II CLASS U,EUR - Euro Member Countries Euro,ACTIVO INMOBILIARIO,Internacional,Alternative,Real Estate,Real Estate
-382,SHW US EQUITY,SHERWIN-WILLIAMS CO/THE,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-383,SISEAAA LX EQUITY,SCHRODER INTL EU VAL-AA,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Other
-384,SLAUIWA ID EQUITY,SEI LIQUID ALTS WEALTH A USD ACC,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Other,Fund
-385,SMH LN EQUITY,VANECK SEMICONDUCTOR UCITS ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Large Cap
-386,SNOW US EQUITY,SNOWFLAKE INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-387,SOXX US EQUITY,ISHARES SEMICONDUCTOR ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Large Cap
-388,SPFSPLD KY EQUITY,SECURITIZED PRODUCTS FUND LTD USD 0.01 TRANCHE 2 RESTRICTED,USD - United States Dollar,ALTERNATIVE INVESTMENT,Internacional,Alternative,Hedge Fund,Hedge Fund
-389,SPOT US EQUITY,SPOTIFY TECHNOLOGY SA,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-390,SPXS LN EQUITY,INVESCO S&P 500 UCITS ETF ACCUM SHS,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Large Cap
-391,SPY US EQUITY,ETF SPDR S&P 500,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Large Cap
-392,SQM US EQUITY,SOQUIMICH ADR,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-393,SSPVEA1 LX EQUITY,SCHR GA II SPE PRIV E-A1USD,USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
-394,STARWOOD REAL ESTATE INCOME TRUST OFFSHORE,STARWOOD REAL ESTATE INCOME TRUST OFFSHORE,USD - United States Dollar,ACTIVO INMOBILIARIO,Internacional,Alternative,Real Estate,Real Estate
-395,STN FP EQUITY,SPDR MSCI EUR ENERGY UCITS ETF,EUR - Euro Member Countries Euro,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Sector
-396,STQ FP EQUITY,SPDR MSCI EUR INDUS UCITS ETF,EUR - Euro Member Countries Euro,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Sector
-397,STTX IM EQUITY,SPDR MSCI EURO TELE EUR ACC ETF,EUR - Euro Member Countries Euro,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Sector
-398,STX US EQUITY,SEAGATE TECHNOLOGY HOLDINGS,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-399,SYK US EQUITY,STRYKER CORP,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-400,TEAM US EQUITY,ATLASSIAN CORP PLC CLASS A,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-401,TEMFRBX LX EQUITY,TEMPLETON ASIAN GROWTH FUND CLASS N,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Asia ex Japan,Other
-402,THNQ US EQUITY,ROBO GLOBAL ARTIFICIAL INTELLIGENCE ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Sector
-403,TIGER GLOBAL PIP XV PRIVATE,TIGER GLOBAL PIP XV PRIVATE,USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
-404,TMO US EQUITY,THERMO FISHER SCIENTIFIC INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-405,TOST US EQUITY,TOAST INC-CLASS A,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-406,TREX LN EQUITY,INVESCO US TREASURY BD 7-10 UCITS ETF,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Fund
-407,TSM US EQUITY,TAIWAN SMCNDCTR MFG CO LTD ADR,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Asia ex Japan,Stock
-408,TT US EQUITY,TRANE TECHNOLOGIES PLC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-409,TTWO US EQUITY,TAKE-TWO INTERACTIVE SOFTWARE INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-410,TXN US EQUITY,TEXAS INSTRUMENTS INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-411,U US EQUITY,UNITY SOFTWARE INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-412,UBSICQC SW EQUITY,UBS SWISS INCOME EQUITY  FUND,CHF - Switzerland Franc,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Open-End Fund
-413,US05565QDU94 CORP,BP CAPITAL MARKETS PLCDL-FLR NOTES 4.375% PERPETUAL,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Europe,Bond
-414,US09261HBN61 CORP,BLACKSTONE PRIVATE CR 5.95% 2029,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Bond
-415,US11135FAL58 CORP,"BROADCOM INC 4,11% 2028",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Bond
-416,US195325DZ51 CORP,"REPUBLIC OF COLOMBIA 3,25% 2032",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
-417,US195325EF88 CORP,REPUBLIC OF COLOMBIA 8% 2033,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
-418,US279158AN94 CORP,ECOPETROL SA 6.875% 2030,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
-419,US279158AP43 CORP,"ECOPETROL SA 4,625% 2031",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
-420,US279158AW93 CORP,ECOPETROL SA 7.75% 2032,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
-421,US281020BB24 CORP,"EDISON INTERNATIONAL 5,25% 2032",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Bond
-422,US345370DA55 CORP,"FORD MOTOR CO 3,25% 2032",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Bond
-423,US345397B363 CORP,FORD MOTOR CREDIT COMPANY 4% 2030,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Bond
-424,US34540TF988 CORP,"FORD MOTOR CREDIT CO LLC 6,25% 2027",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Bond
-425,US37045XCY04 CORP,GENERAL MOTORS FINL CO INC 3.6% 2030,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Bond
-426,US382550BG56 CORP,GOODYEAR TIRE AND RUBBER 4.875% 2027,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Bond
-427,US40058JDL61 CORP,GOLDMAN SACHS FINANCE CORP 0% 2027,USD - United States Dollar,STRUCTURED NOTE,Internacional,Alternative,Structured Note,Structured Note
-428,US46647PDF09 CORP,JP MORGAN CHASE & CO 4.565% 2029,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Bond
-429,US55903VBC63 CORP,WARNERMEDIA HOLDINGS INC 4.279% 2032,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Bond
-430,US58733RAE27 CORP,MERCADO LIBRE INC 2.375% 2026,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
-431,US58733RAF91 CORP,MERCADO LIBRE INC 3.125% 2031,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
-432,US698299BN37 CORP,"PANAMA REPUBLIK 2,252% 2032",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Emerging,Bond 
-433,US698299BX19 CORP,REPUBLIC OF PANAMA 7.5% 2031,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
-434,US83088MAK80 CORP,"SKYWORKS SOLUTIONS INC 1,8% 2026",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Bond
-435,US83088MAL63 CORP,SKYWORKS SOLUTIONS INC 3% 2031,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Bond
-436,US833636AH64 CORP,"SQM 4,25% 2029",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
-437,US86964WAF95 CORP,SUZANO AUSTRIA 6% 2029,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
-438,US86964WAH51 CORP,SUZANO AUSTRIA GMBH 5%  2030,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
-439,US89356BAC28 CORP,"TRANSCANADA 5,3% 2077",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Bond
-440,US91911TAQ67 CORP,VALE OVERSEAS LIMITED 3.75% 2030,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
-441,USA35155AA77 CORP,KLABIN AUSTRIA GMBH 5.75% 2029,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
-442,USC10602BN61 CORP,BOMBARDIER INC 7.25% 2031,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,USA HY,Bond
-443,USG0399BAA55 CORP,"ANTOFAGASTA PLC 5,625% 2032",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
-444,USG0623EAC33 CORP,"NOTES ATRIUM XII REG S FLTG RT 0%, 2027",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Global,Other
-445,USG0624LAB83 CORP,"COLLATERALIZED DEBT OBLIGATIONS ATRIUM XIII REG S FLOATING RATE 0%, 2047",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Global,Other
-446,USG0626AAB01 CORP,"NOTES ATRIUM XV SUBORDINATE REG S 0%, 2031",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Europe,Other
-447,USG25343AB36 CORP,COSAN S.A 5.5% 2029,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
-448,USG2583XAB76 CORP,"CSN INOVA VENTURES 6,750% 2028",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
-449,USG2850HAA08 CORP,"NOTES DRYDEN 30 SENIOR LOAN FUND 0%, 2025",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,USA HY,Bond
-450,USG94017AC77 CORP,"CLO VOYA CLO LTD SUBORD REG S VAR RT LEG MAT 0%, 2029",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,USA HY,Bond
-451,USG9402YAB95 CORP,COLLATERALIZED LOAN OBLIGATIONS VOYA CLO LTD REG S FLOATING RATE 0% 2027,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,USA HY,Bond
-452,USH42097FA09 CORP,UBS GROUP AG 7% PERPETUAL,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Europe,Bond
-453,USL56608AL39 CORP,JBS USA FOOD FINANCE 5.75% 2033,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US HY,Bond
-454,USN15516AD40 CORP,BRASKEM NETHERLANDS 4.5 2030,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
-455,USN7163RAY91 CORP,PROSUS NV 4.987% 2052,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Europe,Bond
-456,USP01020AK52 CORP,"AGROSUPER SA SR NTS 4.6%, 2032",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
-457,USP0608AAB28 CORP,"AES PANAMA 4,375% 2030",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
-458,USP2000TAB19 CORP,"BANCO DO BRASIL 6,25% 2030",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
-459,USP2195VAR61 CORP,CELULOSA ARAUCO CONSTITU 4.2% 2030,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
-460,USP2205JAQ33 CORP,CENCOSUD 4.375% 2027,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
-461,USP2253TJN02 CORP,"CEMEX 5,45% 2029",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
-462,USP2316YAA12 CORP,CAP SA 3.9% 2031,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
-463,USP29595AB42 CORP,"COMISION FEDERAL DE ELEC 4,75% 2027",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
-464,USP3067GAG66 CORP,CIA CERVECERIAS UNIDAS 3.35% 2032,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
-465,USP37115AF26 CORP,ENTEL 4.75% 2026,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
-466,USP3984LAA81 CORP,FALABELLA SA 3.375% 2032,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
-467,USP62138AB13 CORP,"LATAM AIRLINES 7,875%, 2030",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
-468,USP62138AC95 CORP,LATAM AIRLINES 7.625% 2031,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
-469,USP6680PAB78 CORP,"CIA DE MINAS BUENAVENTURA 6,8% 2032",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
-470,USP8718AAL00 CORP,"SQM 4,25% 2029",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
-471,USP8718AAP14 CORP,"SQM 6,50% 2033",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
-472,USP90375AV12 CORP,TELEFONICA 3.537% 2031,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
-473,USR9900CAR71 CORP,YARA INTERNATIONAL ASA 4.75% 2028,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Emerging,Bond
-474,USU1109MAU00 CORP,BROADCOM INC 3.419%% 2028,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Bond
-475,USY5257YAM94 CORP,LENOVO GROUP LTD 6.536% 2032,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Emerging,Bond 
-476,UTIIDEI ID EQUITY,UTI INDIA DYNAMIC EQUITY FUND,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Asia ex Japan,India
-477,UTIURDR ID EQUITY,UTI INDIA DYNAMIC EQUITY FUND USD RDR,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Asia ex Japan,India
-478,VAGBIIP ID EQUITY,VANGUARD JAPAN GOV BD USDH ACC I,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Europe,Fund
-479,VERASUR ID EQUITY,VERITAS FUND ASIAN,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Asia ex Japan,Other
-480,VHT US EQUITY,VANGUARD HEALTH CARE ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Sector
-481,VINTAGE EUROPEAN OPPORTUNITY FUND OFFSHORE L.P.,VINTAGE EUROPEAN OPPORTUNITY FUND OFFSHORE L.P.,USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
-482,VOLCOMCAPITAL PE SECONDARY I,VOLCOMCAPITAL PE SECONDARY I ARDIAN SERIE A,USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
-483,VOLCOMCAPITAL SPECIAL SITUATIONS II FONDO DE INVERSION,VOLCOMCAPITAL SPECIAL SITUATIONS II FONDO DE INVERSION CVC,USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
-484,VOTSUH1 LX EQUITY,VONTOBEL FUND-TWENTYFOYR STRAT,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Europe,Fund
-485,VOX US EQUITY,VANGUARD COMMUNICATION SERVICES INDEX FUND ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Sector
-486,WSEEBUU ID EQUITY,WELLINGTON STRAT EUR EQ-D USD AC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Other
-487,WSEENHI ID EQUITY,WELLINGTON STRAT EUR EQ-N AC H,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Open-End Fund
-488,WSM US EQUITY,WILLIAMS SONOMA INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
-489,X71U LN EQUITY,XTRACKERS II EUROZON ETF,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Europe,Fund
-490,XD0293341893 CORP,MILLENNIUM INTERNATIONAL HEDGEFOCUS FUND LTD SERIES,USD - United States Dollar,ALTERNATIVE INVESTMENT,Internacional,Alternative,Hedge Fund,Hedge Fund
-491,XD1381611031,APOLLO DEBT SOLUTIONS BDC ICAPITAL OFFSHORE ACCESS FUND SPC USD,USD - United States Dollar,PRIVATE DEBT,Internacional,Alternative,Private Debt,Private Debt
-492,XD1453506697,A&Q DIRECT ACCESS AEF SP NEW ISSUES,USD - United States Dollar,ALTERNATIVE INVESTMENT,Internacional,Alternative,Hedge Fund,Hedge Fund
-493,XDAX GR EQUITY,XTRACKERS DAX UCITS ETF,EUR - Euro Member Countries Euro,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Fund
-494,XF0002897326,FUND PRE-PAYM USD,USD - United States Dollar,CAJA Y M.M.,Internacional,Liquidity,Liquidity,Liquidity
-495,XF0040764023 CORP,INVESTMENT AMOUNT WITH PE SECURITIZATION (LUX) S.A. - FOCUS NATURAL RESOURCES 2015 COMPARTMENT - CLASS A SHARES (APOLLO),USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
-496,XF0040804696 CORP,INVESTMENT AMOUNT WITH PE SECURITIZATION (LUX) S.A.-FOCUS OPPORTUNISTIC CREDIT 2017 CLASS E SHARES (CARVAL),USD - United States Dollar,PRIVATE DEBT,Internacional,Alternative,Private Debt,Private Debt
-497,XLF US EQUITY,SELECT SECTOR SPDR TR FINANCIAL,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Large Cap
-498,XLI US EQUITY,SELECT SECTOR SPDR TR INDL,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Large Cap
-499,XS1596778008 CORP,"UNICREDIT SPA 4,625% 2027",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Europe,Bond
-500,MANGLOJ ID Equity,MAN GBL INVST GRDE OPPO-D US,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Fund
-501,PIMCMEI ID Equity,PIMCO GIS-INCOME FUND-EI,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Fund
-502,MGHODVH ID Equity,MAN HIGH YIELD OPPORTU-DV HU,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US HY,Fund
-503,,,,,,,,
-504,ARISTEIA INTERNATIONAL LIMITED CLASS G SHARES,ARISTEIA INTERNATIONAL LIMITED CLASS G SHARES HOLDBACK,USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,,
-505,CDNS US EQUITY,CADENCE DESIGN SYSTEMS,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
-506,DPZ US EQUITY,DOMINOS PIZZA INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
-507,BURL US EQUITY,BURLINGTON STORES INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
-508,INFY US EQUITY,INFOSYS LTD,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
-509,OS US EQUITY,ONESTREAM INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
-510,MELI US EQUITY,MERCADOLIBRE INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
-511,UBER US EQUITY,UBER TECHNOLOGIES INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
-512,MNDY US EQUITY,MONDAY.COM LTD,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
-513,MA US EQUITY,MASTERCARD INC-CLASS A,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
-514,SNDK US EQUITY,SANDISK CORP,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
-515,IR US EQUITY,INGERSOLL-RAND PLC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
-516,FI US EQUITY,FISERV INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
-517,TTD US EQUITY,TRADE DESK INC/THE,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
-518,RDDT US EQUITY,REDDIT INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
-519,MNST US EQUITY,MONSTER BEVERAGE CORP,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
-520,AMDVASC CI EQUITY,"AMERIS DVA SILICON FUND FI, SERIE C",USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
-521,AMDVASC CI EQUITY,"AMERIS DVA SILICON FUND FI, SERIE C",USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
-522,CRWV US EQUITY,COREWEAVE INC CLASS A,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
-523,DELL US EQUITY,DELL,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
-524,LOW US EQUITY,LOWE'S COMPANIES INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
-525,ADI US EQUITY,ANALOG DEVICES INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
-526,ADI US EQUITY,ANALOG DEVICES INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
-527,HON US EQUITY,HONEYWELL INTERNATIONAL INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
-528,UNH US EQUITY,UNITEDHEALTH GROUP INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
-529,EXAS US EQUITY,EXACT SCIENCES CORPORATION,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
-530,CGNX US EQUITY,COGNEX CORPORATION,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
-531,MKTX US EQUITY,MARKETAXES HOLDING INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
-532,BMY US EQUITY,BRISTOL-MYERS SQUIBB CO,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
-533,MFIC US EQUITY,MIDCAP FINANCIAL INVESTMENT,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
-534,PSTG US EQUITY,PURE STORAGE INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
-535,MRVL US EQUITY,MARVELL TECHNOLOGY GROUP LTD,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
-536,DUOL US EQUITY,DUOLINGO INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
-537,BABA US EQUITY,ALIBABA GROUP HOLDING LTD,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
-538,WDC US EQUITY,WESTERN DIGITAL CORP,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
-539,CARR US EQUITY,CARRIER GLOBAL CORP,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
-540,SLB US EQUITY,SCHLUMBERGER LTD,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
-541,BHI US EQUITY,BAKER HUGHES INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
-542,TCOM US EQUITY,TRIP.COM GROUP LTD ADR,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
-543,MOS US EQUITY,THE MOSAIC COMPANY,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
-544,NTR US EQUITY,NUTRIEN LTD,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
-545,DASH US EQUITY,DOORDASH INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
-546,NVO US EQUITY,NOVO-NORDISK SPONS ADR,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
-547,APH US EQUITY,AMPHENOL CORP-CL A,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
-548,BFLY US EQUITY,BUTTERFLY NETWORK INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
-549,CIEN US EQUITY,CIENA CORP,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
-550,BTGABED CI EQUITY,BTG PACTUAL ABSOLUTO BRASIL EQUITY FUND,CLP - Chile Peso,RENTA VARIABLE,Nacional,,,
-551,CSABAFD KY EQUITY,CREDIT SUISSE ALTERNATIVE ACCESS SPC - BA FOCUS SEGREGATED PORTFOLIO (BRIDGEWATER),USD - United States Dollar,ALTERNATIVE INVESTMENT,Internacional,,,
-552,XS0308427581 CORP,DP WORLD LTD 6.85% 2037,USD - United States Dollar,RENTA FIJA,Internacional,,,
-553,USP9406GAC26 CORP,"TRUST FIBRAUNO 5,25% 2026",USD - United States Dollar,RENTA FIJA,Internacional,,,
-554,US251525AP63 CORP,"DEUTSCHE BANK AG 4,5% 2025",USD - United States Dollar,RENTA FIJA,Internacional,,,
-555,USF2R125AC99 CORP,"CREDIT AGRICOLE SA 4,375% 2025",USD - United States Dollar,RENTA FIJA,Internacional,,,
-556,US05578UAD63 CORP,"BPCE SA 4,5% 2025",USD - United States Dollar,RENTA FIJA,Internacional,,,
-557,USU98401AA75 CORP,XEROX HOLDING CORPS 5% 2025,USD - United States Dollar,RENTA FIJA,Internacional,,,
-558,USG471ABNV88 CORP,"IIMPERIAL BRANDS FIN PLC 3,5% 2026",USD - United States Dollar,RENTA FIJA,Internacional,,,
-559,CH0481013784 CORP,JULIUS BAER GROUP LTD 2.375% PERPETUAL,CHF - Switzerland Franc,RENTA FIJA,Internacional,,,
-560,US912828YB05 CORP,TREASURY NOTES UNITED STATES OF AMERICA 1.625% 2029,USD - United States Dollar,RENTA FIJA,Internacional,,,
-561,US05971WAC73 CORP,"BANCO SANTANDER SA 2,7% 2025",USD - United States Dollar,RENTA FIJA,Internacional,,,
-562,US135087N757 CORP,"BONDS CANADA GOVERNMENT 2.875%, 2025",USD - United States Dollar,RENTA FIJA,Internacional,,,
-563,USP98118AA38 CORP,"NEXA RESOURCES SA 5,375% 2027",USD - United States Dollar,RENTA FIJA,Internacional,,,
-564,CSLLBUB LX EQUITY,CS LUX LATAM CRP BOND-UB USD,USD - United States Dollar,RENTA FIJA,Internacional,,,
-565,US912828Z781 CORP,"TREASURY NOTES UNITED STATES OF AMERICA 1,5%, 2027",USD - United States Dollar,RENTA FIJA,Internacional,,,
-566,CH1160382904 CORP,ITAU BBA INTERNATIONAL PLC 0.56% 2025,CHF - Switzerland Franc,RENTA FIJA,Internacional,,,
-567,USN84413CL06 CORP,"SYNGENTA FINANCE NV 4,892% 2025",USD - United States Dollar,RENTA FIJA,Internacional,,,
-568,BSTD210622,BANCO SANTANDER CHILE 2.6% 2025,CLF - Chile UF,RENTA FIJA,Nacional,,,
-569,BSTDU51020,BANCO SANTANDER CHILE 2.7% 2025,CLP - Chile Peso,RENTA FIJA,Nacional,,,
-570,BCHIAW0213,"BANCO DE CHILE 3,6% 2025",CLF - Chile UF,RENTA FIJA,Nacional,,,
-571,BCSMU-AK,SMU 3% 2025,CLF - Chile UF,RENTA FIJA,Nacional,,,
-572,CAJA CLF,CAJA CLF,CLF - Chile UF,CAJA Y M.M.,Nacional,,,
-573,SMH US EQUITY,VANECK SEMICONDUCTOR,USD - United States Dollar,RENTA VARIABLE,Internacional,,,
-574,MLLEUA2 LX EQUITY,BLACKROCK GLB EMG MKTS LOCAL CURR BOND,USD - United States Dollar,RENTA FIJA,Internacional,,,
-575,US46647PCV67 CORP,JPMORGAN CHASE & CO 2.595% 2026,USD - United States Dollar,RENTA FIJA,Internacional,,,
-576,US84265VAA35 CORP,SOUTHERN COPPER CORP 7.5% 2035,USD - United States Dollar,RENTA FIJA,Internacional,,,
-577,IMTMONB CI EQUITY,CREDICORP MONEY MARKET B,USD - United States Dollar,CAJA Y M.M.,Nacional,,,
-578,BCAPEMA CI EQUITY,BANCHILE CAPITAL EMPRESARIAL A,CLP - Chile Peso,CAJA Y M.M.,Nacional,,,
-579,BCAPEMP CI EQUITY,BANCHILE CAPITAL EMPRESARIAL,CLP - Chile Peso,CAJA Y M.M.,Nacional,,,
-580,NCSGUIA ID EQUITY,NEW CAPITAL USSCG-USDIA,USD - United States Dollar,RENTA VARIABLE,Internacional,,,
-581,SWKS US EQUITY,SKYWORKS SOLUTIONS INC,USD - United States Dollar,RENTA VARIABLE,Internacional,,,
-582,MFEGAU1 LX EQUITY,MFS MER-EURPN COR EQ-A1USD,USD - United States Dollar,RENTA VARIABLE,Internacional,,,
-583,BICLIQX CI EQUITY,BICE LIQUIDEZ PESOS INVERSIONISTA,CLP - Chile Peso,CAJA Y M.M.,,,,
-584,MBIRFANV CI EQUITY,MBI DEUDA PLUS FI - A,CLP - Chile Peso,RENTA FIJA,,,,
-585,IPI US EQUITY,INTREPID POTASH INC,USD - United States Dollar,RENTA VARIABLE,Internacional,,,
-586,ESJCOMR LX EQUITY,EST INV JP SM COM FN-RUUNHD,USD - United States Dollar,RENTA VARIABLE,Internacional,,,
-587,IEO US EQUITY,ISHARES U.S. OIL & GAS EXPLO,USD - United States Dollar,RENTA VARIABLE,Internacional,,,
-588,LAUSBZA ID EQUITY,LORD ABBETT ULTRA SHORT BOND Z USD ACC,USD - United States Dollar,RENTA FIJA,Internacional,,,
-589,MUSDHYA LX EQUITY,MORGAN STANLEY INVF U.S. DOLLAR SHORT DURATION HIGH YIELD BOND FUND CLASS A,USD - United States Dollar,RENTA FIJA,Internacional,,,
-590,AECHAUC LX EQUITY,AMUNDI EMMK CORP HIYLD BD A,USD - United States Dollar,RENTA FIJA,Internacional,,,
-591,AECHAUC LX EQUITY,AMUNDI EMMK CORP HIYLD BD A,USD - United States Dollar,RENTA FIJA,Internacional,,,
-592,MFW1USD LX EQUITY,MFS MERIDIAN FUNDS CORPORATE BOND ACC,USD - United States Dollar,RENTA FIJA,Internacional,,,
-593,IBB US EQUITY,ISHARES NASDAQ BIOTECHNOLOGY ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,,,
-594,MLGCBA2 LX EQUITY,BGF GLOBAL CORPORATE BOND A,USD - United States Dollar,RENTA FIJA,Internacional,,,
-595,PAGARE BYG 3,PAGARE PC CLP 0.70% MENSUAL,CLP - Chile Peso,INVERSIONES SOCIEDADES,Nacional,,,
-596,ECH US EQUITY,ISHARES MSCI CHILE,USD - United States Dollar,RENTA VARIABLE,Internacional,,,
-597,MGLOA1U LX EQUITY,MFS MERIDIAN GLB OPP BND FUND,USD - United States Dollar,RENTA FIJA,Internacional,,,
-598,MSEMCDA LX EQUITY,MS EMERGING MKTS CORP DEBT A,USD - United States Dollar,RENTA FIJA,Internacional,,,
-599,STPX IM EQUITY,SPDR MSCI EUROPE MATERIALS EUR ACC ETF,EUR - Euro Member Countries Euro,RENTA VARIABLE,Internacional,,,
-600,XDN0 GR EQUITY,XTRACKERS MSCI NORDIC EUR DIST,EUR - Euro Member Countries Euro,RENTA VARIABLE,Internacional,,,
-601,BRJE1JY ID EQUITY,BLACKROCK INST POOLED EQUITY 1 JAPAN ACC J,JPY - Japan Yen,RENTA VARIABLE,Internacional,,,
-602,SLIEKUH LX EQUITY,ABRDN EURO CORPORATE BONF USD HDG ACC K,USD - United States Dollar,RENTA FIJA,Internacional,,,
-603,MBIARANV CI EQUITY,MBI ARBITRAGE FONDO DE INVERSION A,CLP - Chile Peso,RENTA VARIABLE,Internacional,,,
-604,VBR US EQUITY,VANGUARD SMALL-CAP VALUE ETF INC,USD - United States Dollar,RENTA VARIABLE,Internacional,,,
-605,MBIGLONV CI EQUITY,MBI GLOBAL FONDO DE INVERSION A,USD - United States Dollar,RENTA VARIABLE,Internacional,,,
-606,BBCIS-P36B,"BCI SECURITIZADORA S.A. 14,17% 2029",CLP - Chile Peso,RENTA FIJA,Nacional,,,
-607,CFI-FALCDW,FI FALCOM LATAM CORP DEBT FUND W,USD - United States Dollar,RENTA FIJA,Internacional,,,
-608,US24703TAG13 CORP,"DELL INTERNATIONAL LLC 5,3% 2029",USD - United States Dollar,RENTA FIJA,Internacional,,,
-609,US345397B777 CORP,"FORD MOTOR CREDIT CO LLC 2,7% 2026",USD - United States Dollar,RENTA FIJA,Internacional,,,
-610,DCORPCH CI EQUITY,BTG PACTUAL DEUDA CORPORATIVA CHILE,CLP - Chile Peso,RENTA FIJA,Nacional,,,
-611,MSGOPPA LX EQUITY,MORGAN STANLEY INVF GLOBAL OPPORTUNITY FUND CLASS A,USD - United States Dollar,RENTA VARIABLE,Internacional,,,
-612,BSTDP90315,BANCO SANTANDER CHILE 2.6% 2025,CLF - Chile UF,RENTA FIJA,Nacional,,,
-613,BCSMU-T,SMU 3% 2025,CLF - Chile UF,RENTA FIJA,Nacional,,,
-614,JPMGBOA LX EQUITY,JPMORGAN GLOBAL BOND OPPORTUNITIES FUND CLASS A,USD - United States Dollar,RENTA FIJA,Internacional,,,
-615,NCAFUIA ID EQUITY,NEW CAP ASIA FUTR LDER-USDIA,USD - United States Dollar,RENTA VARIABLE,Internacional,,,
-616,MJFOX US EQUITY,MATTHEWS JAPAN INVESTOR FUND,USD - United States Dollar,RENTA VARIABLE,Internacional,,,
-617,BBHYIUB LX EQUITY,BLUEBAY HIGH YIELD BOND FUND I,USD - United States Dollar,RENTA FIJA,Internacional,,,
-618,FODESTA CI EQUITY,FONDO MUTUO BANCHILE ESTRUCTURADO DOLAR II SERIE A,USD - United States Dollar,RENTA FIJA,Internacional,,,
-619,IWN US EQUITY,ISHARES RUSSELL 2000 VALUE ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,,,
-620,BICE RENTA UF CLASICA,BICE RENTA UF CLASICA,CLP - Chile Peso,RENTA FIJA,Nacional,,,
-621,BCHIEF1117,"BANCO DE CHILE 1,8% 2025",CLF - Chile UF,RENTA FIJA,Nacional,,,
-622,CHIQ US EQUITY,GLOBAL X FDS MSCICHINA CONSUMER DISCRETIONARY ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,,,
-623,CFIFALCSCA.SN,"F. I. FALCOM SMALL CAP CHILE, SERIE A",CLP - Chile Peso,RENTA VARIABLE,Nacional,,,
+Ticker,Nombre,Moneda,System Asset Class,Portafolio,Asset Class,Geography / Subclass,Market
+AACCHIA CI EQUITY,ARRAYAN ACCIONES CHILENAS FONDO DE INVERSION,CLP - Chile Peso,RENTA VARIABLE,Nacional,Equities,Chile,Fund
+ABC CI EQUITY,ABC S.A.,CLP - Chile Peso,RENTA VARIABLE,Nacional,Equities,Chile,Stock
+BADRT-G,AD RETAIL 2% 2042,CLP - Chile Peso,RENTA FIJA,Nacional,Fixed Income,Chile,Bond
+BAGRS-D,"AGROSUPER 3,8% 2032",CLF - Chile UF,RENTA FIJA,Nacional,Fixed Income,Chile,Bond
+BAGRS-L,"AGROSUPER 2,5% 2028",CLF - Chile UF,RENTA FIJA,Nacional,Fixed Income,Chile,Bond
+BBCIS-P36A,BCI SECURITIZADORA S.A. 8.5% 2029,CLP - Chile Peso,RENTA FIJA,Nacional,Fixed Income,Chile,Bond
+BBEFS-11C1,EF SECURITIZADORA S.A. 10% 2033,CLP - Chile Peso,RENTA FIJA,Nacional,Fixed Income,Chile,Bond
+BBEFS-P11D,EF SECURITIZADORA S.A SERIE D 10% 2033,CLP - Chile Peso,RENTA FIJA,Nacional,Fixed Income,Chile,Bond
+BBNSAN0918,SCOTIABANK CHILE 2.1% 2026,CLF - Chile UF,RENTA FIJA,Nacional,Fixed Income,Chile,Bond
+BBTG-G1220,BANCO BTG PACTUAL 1% 2027,CLF - Chile UF,RENTA FIJA,Nacional,Fixed Income,Chile,Bond
+BBTG-L0223,BANCO BTG PACTUAL 1% 2030,CLF - Chile UF,RENTA FIJA,Nacional,Fixed Income,Chile,Bond
+BBTG-X0724,BANCO BTG PACTUAL 2% 2028,CLF - Chile UF,RENTA FIJA,Nacional,Fixed Income,Chile,Bond
+BCAJCO0625,"LOS ANDES 5,9% 2028",CLP - Chile Peso,RENTA FIJA,Nacional,Fixed Income,Chile,Bond
+BCALI-A,"CALICHERA S.A 4,5% 2030",CLF - Chile UF,RENTA FIJA,Nacional,Fixed Income,Chile,Bond
+BCHDECH CI EQUITY,BANCHILE FI DEUDA CHILENA,CLP - Chile Peso,RENTA FIJA,Nacional,Fixed Income,Chile,Fund
+BCHIAX0613,"BANCO DE CHILE 3,6% 2025",CLF - Chile UF,RENTA FIJA,Nacional,Fixed Income,Chile,Bond
+BCHIFH1221,"BANCO DE CHILE 2,6% 2030",CLF - Chile UF,RENTA FIJA,Nacional,Fixed Income,Chile,Bond
+BCHIUZ1011,"BBCHILE 3,5% 2025",CLF - Chile UF,RENTA FIJA,Nacional,Fixed Income,Chile,Bond
+BCI CI EQUITY,BCI,CLP - Chile Peso,RENTA VARIABLE,Nacional,Equities,Chile,Stock
+BCSMU-B,"SMU 3,8% 2032",CLF - Chile UF,RENTA FIJA,Nacional,Fixed Income,Chile,Bond
+BDWDISP CI EQUITY,BANCHILE DISPONIBLE - L,CLP - Chile Peso,CAJA Y M.M.,Nacional,Liquidity,Chile,Chile
+BECOP-AG,"COPEC 3,2% 2034",CLF - Chile UF,RENTA FIJA,Nacional,Fixed Income,Chile,Bond
+BELME-F,COMPANIA ELECTRO METALURGICA S.A. 3% 2032,CLF - Chile UF,RENTA FIJA,Nacional,Fixed Income,Chile,Bond
+BENTE-R,"ENTEL 3,5% 2030",CLF - Chile UF,RENTA FIJA,Nacional,Fixed Income,Chile,Bond
+BESTT50617,BANCO DEL ESTADO DE CHILE 3% 2027,CLF - Chile UF,RENTA FIJA,Nacional,Fixed Income,Chile,Bond
+BFAL-G1217,"BBFALABELL 2,8% 2027",CLF - Chile UF,RENTA FIJA,Nacional,Fixed Income,Chile,Bond
+BICINDX CI EQUITY,BICE LIQUIDEZ PESOS CLASICA,CLP - Chile Peso,CAJA Y M.M.,Nacional,Liquidity,Chile,Chile
+BLATM-F,LATAM AIRLINES 2% 2042,CLF - Chile UF,RENTA FIJA,Nacional,Fixed Income,Chile,Bond
+BQUIN-C,QUINENCO 4% 2032,CLF - Chile UF,RENTA FIJA,Nacional,Fixed Income,Chile,Bond
+BRPLAC0524,BANCO RIPLEY 3.1% 2030,CLF - Chile UF,RENTA FIJA,Nacional,Fixed Income,Chile,Bond
+BRPLAE1122,"BANCO RIPLEY 3,1% 2026",CLF - Chile UF,RENTA FIJA,Nacional,Fixed Income,Chile,Bond
+BSALF-B,"SALFACORP 4,5% 2029",CLF - Chile UF,RENTA FIJA,Nacional,Fixed Income,Chile,Bond
+BSALF-V,"SALFACORP 4,5% 2032",CLF - Chile UF,RENTA FIJA,Nacional,Fixed Income,Chile,Bond
+BSTDU61020,"SANTANDER 2,95% 2026",CLP - Chile Peso,RENTA FIJA,Nacional,Fixed Income,Chile,Bond
+BTGCYFA CI EQUITY,BTG PACTUAL CREDITO Y FACTURAS FONDO DE INVERSION,CLP - Chile Peso,RENTA FIJA,Nacional,Fixed Income,Chile,Fund
+BTGFGIA CI EQUITY,BTG FINANCIAMIENTO CON GARANTIA INMOBILIARIA FI,CLP - Chile Peso,RENTA FIJA,Nacional,Fixed Income,Chile,Fund
+CAJA CLP,CAJA CLP,CLP - Chile Peso,CAJA Y M.M.,Nacional,Liquidity,Chile,Chile
+CAP CI EQUITY,CAP S.A.,CLP - Chile Peso,RENTA VARIABLE,Nacional,Equities,Chile,Stock
+CASA MARBELLA,CASA MARBELLA,CLF - Chile UF,ACTIVO INMOBILIARIO,Nacional,Alternative,Chile,Chile
+CCHIACB CI EQUITY,BTG PACTUAL CHILE ACCION B,CLP - Chile Peso,RENTA VARIABLE,Nacional,Equities,Chile,Fund
+CELFFIB CI EQUITY,BTG PACTUAL SMALL CAP CHILE FONDO DE INVERSION,CLP - Chile Peso,RENTA VARIABLE,Nacional,Equities,Chile,Fund
+CFIDHS2A CI EQUITY,FONDO DE INV. LV DEUDA HIPOTECARIA CON SUBSIDIO II,CLP - Chile Peso,RENTA FIJA,Nacional,Fixed Income,Chile,Fund
+CFIETFCC CI EQUITY,FONDO DE INVERSION ETF SINGULAR CHILE CORPORATIVO,CLP - Chile Peso,RENTA FIJA,Nacional,Fixed Income,Chile,Fund
+CFIFALCDCW,FI FALCOM DEUDA CORPORATIVA CHILE W,CLP - Chile Peso,RENTA FIJA,Nacional,Fixed Income,Chile,Fund
+CFIFALCFIW,FALCOM CHILEAN FIXED INCOME W,CLP - Chile Peso,RENTA FIJA,Nacional,Fixed Income,Chile,Fund
+CFIHMCREPA,HMC RENDIMIENTO ESTRATEGICO PESOS A,CLP - Chile Peso,PRIVATE DEBT,Nacional,Alternative,Chile,Fund
+CFILVACIII,HOTELERASH,USD - United States Dollar,PRIVATE EQUITY,Nacional,Alternative,Chile,Fund
+CFIMPIO CI EQUITY,MONEDA PIONERO FONDO DE INVERSION,CLP - Chile Peso,RENTA VARIABLE,Nacional,Equities,Chile,Fund
+CFIQAC CI EQUITY,QUEST ACCIONES CHILE FONDO DE INVERSION SERIE A,CLP - Chile Peso,RENTA VARIABLE,Nacional,Equities,Chile,Fund
+CFIQRGA CI EQUITY,QUEST RENTA GLOBAL A,CLP - Chile Peso,RENTA FIJA,Nacional,Fixed Income,Chile,Fund
+CFIQRGH CI EQUITY,QUEST RENTA GLOBAL HEDGE FONDO INVERSION,CLP - Chile Peso,RENTA FIJA,Nacional,Fixed Income,Chile,Fund
+CFIRIII CI EQUITY,BTG PACTUAL RENTA COMERCIAL,CLP - Chile Peso,ACTIVO INMOBILIARIO,Nacional,Alternative,Chile,Fund
+CFITDPFI-E,"TOESCA DEUDA PRIVADA FACTURAS FI, SER I",CLP - Chile Peso,RENTA FIJA,Nacional,Fixed Income,Chile,Fund
+CFITOERRC,TOESCA RENTA RESIDENCIAL C,CLP - Chile Peso,ACTIVO INMOBILIARIO,Nacional,Alternative,Chile,Fund
+CFIUSRE CI EQUITY,FONDO DE INVERSION ETF SINGULAR S&P 500,CLP - Chile Peso,RENTA VARIABLE,Internacional,Equities,USA,Large Cap
+CFIWEG1 CI EQUITY,FONDO DE INVERSION WEG-1,CLP - Chile Peso,RENTA FIJA,Nacional,Fixed Income,Chile,Fund
+CFIWEG-3,FONDO DE INVERSION WEG-3 RENTA Y DESARROLLO RESIDENCIAL,CLP - Chile Peso,ACTIVO INMOBILIARIO,Nacional,Alternative,Chile,Fund
+CMONMAR CI EQUITY,BTG PACTUAL MONEY MARKET-A,CLP - Chile Peso,CAJA Y M.M.,Nacional,Liquidity,Chile,Chile
+COPEC CI EQUITY,COPEC S.A.,CLP - Chile Peso,RENTA VARIABLE,Nacional,Equities,Chile,Stock
+CREDITO FIP BVC DI-1,CREDITO FIP BVC DI-1,CLF - Chile UF,PRIVATE DEBT,Nacional,Alternative,Chile,Fund
+CXCASHB CI EQUITY,LV MONETARIO F,CLP - Chile Peso,CAJA Y M.M.,Nacional,Liquidity,Chile,Chile
+DEPTO SANTIAGO,DEPARTAMENTO SANTIAGO,CLF - Chile UF,ACTIVO INMOBILIARIO,Nacional,Alternative,Chile,Chile
+FALAB CI EQUITY,FALABELLA,CLP - Chile Peso,RENTA VARIABLE,Nacional,Equities,Chile,Stock
+FALCTNV CI EQUITY,FALCOM FI TACTICAL CHILE EQUITY C,CLP - Chile Peso,RENTA VARIABLE,Nacional,Equities,Chile,Fund
+FI CC INM ACONCAGUA III,FONDO DE INVERSION CC INMOBILIARIO – ACONCAGUA III SERIE B,CLP - Chile Peso,ACTIVO INMOBILIARIO,Nacional,Alternative,Chile,Fund
+FI CC PLAZA EGAÑA,FONDO DE INVERSION CREDICORP CAPITAL PLAZA EGAÑA,CLP - Chile Peso,ALTERNATIVE INVESTMENT,Nacional,Alternative,Chile,Fund
+FIP APOQUINDO BYG,FIP APOQUINDO BYG,CLP - Chile Peso,ALTERNATIVE INVESTMENT,Nacional,Alternative,Chile,Fund
+FIP BVC DI-1,FONDO DE INVERSIÓN PRIVADO BVC DI-1,CLF - Chile UF,ACTIVO INMOBILIARIO,Nacional,Alternative,Chile,Fund
+FIP MINERIA ACTIVA III,FIP MINERIA ACTIVA III,USD - United States Dollar,PRIVATE EQUITY,Nacional,Alternative,Chile,Fund
+FIP Plusvalía Agrícola Uno,FIP PLUSVALIA AGRICOLA UNO,CLF - Chile UF,ACTIVO INMOBILIARIO,Nacional,Alternative,Chile,Fund
+FIP PLUSVALÍA AGRÍCOLA UNO II,FIP VALLE CENTRAL,CLF - Chile UF,ACTIVO INMOBILIARIO,Nacional,Alternative,Chile,Fund
+HMCRGBP CI EQUITY,HMC-RENTA GLOBAL PESOS-BP,CLP - Chile Peso,RENTA FIJA,Nacional,Fixed Income,Chile,Fund
+IMLIQUF CI EQUITY,FONDO MUTUO CREDICORP CAPITAL LIQUIDEZ F,CLP - Chile Peso,CAJA Y M.M.,Nacional,Liquidity,Chile,Chile
+IMLIQUI CI EQUITY,FONDO MUTUO CREDICORP CAPITAL LIQUIDEZ B,CLP - Chile Peso,CAJA Y M.M.,Nacional,Liquidity,Chile,Chile
+INVEXANS CI EQUITY,INVEXANS SA,CLP - Chile Peso,RENTA VARIABLE,Nacional,Equities,Chile,Stock
+IVSXCSH CI EQUITY,LARRAIN VIAL MONETARIO A,CLP - Chile Peso,CAJA Y M.M.,Nacional,Liquidity,Chile,Chile
+LV SALUD UNO SPA,LV SALUD UNO SPA,CLP - Chile Peso,PRIVATE EQUITY,Nacional,Alternative,Chile,Fund
+LVDEPRU CI EQUITY,FI LARRAINVIAL DEUDA PRIVADA,CLP - Chile Peso,RENTA FIJA,Nacional,Fixed Income,Chile,Fund
+LVPARI1 CI EQUITY,LV PATIO RENTA INMOBILIARIA,CLP - Chile Peso,ACTIVO INMOBILIARIO,Nacional,Alternative,Chile,Fund
+MBIDTB CI EQUITY,MBI DEUDA TOTAL FONDO DE INVERSION B,CLP - Chile Peso,RENTA FIJA,Nacional,Fixed Income,Chile,Fund
+MODUECH CI EQUITY,MONEDA DEUDA CHILE FONDO DE INVERSION,CLP - Chile Peso,RENTA FIJA,Nacional,Fixed Income,Chile,Fund
+MORCLPR CI EQUITY,MONEDA RENTA CLP SERIE R,CLP - Chile Peso,RENTA FIJA,Nacional,Fixed Income,Chile,Fund
+MRCLP CI EQUITY,MONEDA RENTA CLP,CLP - Chile Peso,RENTA FIJA,Nacional,Fixed Income,Chile,Fund
+NITRATOS CI EQUITY,NITRATOS DE CHILE SA,CLP - Chile Peso,RENTA VARIABLE,Nacional,Equities,Chile,Stock
+NUTRAVAL CI EQUITY,INVERSIONES NUTRAVALOR SA,CLP - Chile Peso,RENTA VARIABLE,Nacional,Equities,Chile,Stock
+OROB CI EQUITY,SOC INV ORO BLANCO SA,CLP - Chile Peso,RENTA VARIABLE,Nacional,Equities,Chile,Stock
+PAGARE BYG 3,PAGARE PC CLP 0.70% MENSUAL,CLP - Chile Peso,ALTERNATIVE INVESTMENT,Nacional,Alternative,Chile,
+SANMNMK CI EQUITY,SANTANDER MONEY MARKET UNIVERSAL,CLP - Chile Peso,CAJA Y M.M.,Nacional,Liquidity,Chile,Chile
+SECPLUC CI EQUITY,FONDO MUTUO SECURITY PLUS C,CLP - Chile Peso,CAJA Y M.M.,Nacional,Liquidity,Chile,Chile
+SMRKTEJ CI EQUITY,SANTANDER MONEY MARKET EJECUTIVA,CLP - Chile Peso,CAJA Y M.M.,Nacional,Liquidity,Chile,Chile
+SOPROC CI EQUITY,SOPROCAL CALERIAS E INDUSTRIAS SA,CLP - Chile Peso,RENTA VARIABLE,Nacional,Equities,Chile,Stock
+SQM/B CI EQUITY,SOQUIMICH B,CLP - Chile Peso,RENTA VARIABLE,Nacional,Equities,Chile,Stock
+TCHIEQB CI EQUITY,TOESCA CHILE EQUITY B,CLP - Chile Peso,RENTA VARIABLE,Nacional,Equities,Chile,Fund
+TOERIMA CI EQUITY,TOESCA RENTA INMOBILIARIA FONDO DE INVERSION,CLP - Chile Peso,ACTIVO INMOBILIARIO,Nacional,Alternative,Chile,Fund
+TOESCA CI EQUITY,TOESCA SMALL CAP CHILE-A,CLP - Chile Peso,RENTA VARIABLE,Nacional,Equities,Chile,Fund
+VAPORES CI EQUITY,VAPORES,CLP - Chile Peso,RENTA VARIABLE,Nacional,Equities,Chile,Stock
+VENTANA CI EQUITY,PUERTO VENTANAS SA,CLP - Chile Peso,RENTA VARIABLE,Nacional,Equities,Chile,Stock
+XS2388378981 CORP,BANCO SANTANDER SA,EUR - Euro Member Countries Euro,RENTA FIJA,Internacional,Fixed Income,Europe,Bond
+XSMC SW EQUITY,X SWITZERLAND 1C,CHF,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Fund
+XUCD LN EQUITY,X MSCI USA CONS DISCR 1D,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Fund
+XUFN LN EQUITY,X MSCI USA FINANCIALS,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Fund
+XUHC LN EQUITY,X MSCI USA HEALTH CARE 1D,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Fund
+Z US EQUITY,ZILLOW GROUP INC - C,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+2112305D US EQUITY,APOLLO DEBT SOLUTIONS DBC,USD - United States Dollar,PRIVATE DEBT,Internacional,Alternative,Private Debt,Private Debt
+AAPL US EQUITY,APPLE INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+AAXJ US EQUITY,ISHARES MSCI ALL COUNTRY ASIA EX JAPAN,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Asia ex Japan,Other
+ACMEIID LX EQUITY,ALLIANCEBERNSTEIN EUROPEAN INCOME PORTFOLIO FUND CLASS I,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Europe,Fund 
+ACWI US EQUITY,MSCI ALL COUNTRY WORLD,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Large Cap
+ADBE US EQUITY,ADOBE SYSTEMS INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+ADP US EQUITY,AUTOMATIC DATA PROCESSING,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+ADSK US EQUITY,AUTODESK INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+AIRR US EQUITY,FIRST TRUST RBA AMERICAN INDUSTRIAL RENAISSANCE ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Small Cap
+ALAB US EQUITY,ASTERA LABS INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+AMD US EQUITY,ADVANCED MICRO DEVICES,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+AMZN US EQUITY,AMAZON.COM,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+ANET US EQUITY,ARISTA NETWORKS INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+APP US EQUITY,APPLOVIN CORP-CLASS A,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+ARKG US EQUITY,ARK GENOMIC REVOLUTION ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Fund
+ARKK US EQUITY,ARK INNOVATION ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Fund
+ASHR US EQUITY,XTRACKERS HARVEST CSI 300 CH,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Asia ex Japan,China
+ASML US EQUITY,ASML HOLDING N.V.,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Stock
+ATROB US EQUITY,ASTRONICS CORP-CL B,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+AVGO US EQUITY,BROADCOM INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+AXP US EQUITY,AMERICAN EXPRESS CO,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+AXUSHZA LX EQUITY,AXA IM FIIS-US SH DU HY-Z,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,USA HY,Fund
+BA US EQUITY,BOEING CO/THE,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+BCIDCAA CI EQUITY,BCI DOLAR CASH SERIE CLASICA,USD - United States Dollar,CAJA Y M.M.,Internacional,Liquidity,Liquidity,Liquidity
+BEUD2UH LX EQUITY,BGF EUROPEAN FUND CLASS D2 USD HEDGED,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Open-End Fund
+BGUHD2U LX EQUITY,BLACKROCK USD HY BD USD ACC M,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US HY,Fund
+BIUSUPS ID EQUITY,BLACKROCK ICS US ULTR SHRT-PRM ACC,USD - United States Dollar,CAJA Y M.M.,Internacional,Liquidity,Liquidity,Liquidity
+BKR US EQUITY,BAKER HUGHES CO,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+BLACKSTONE PARTNERS,BLACKSTONE SEGREGATED PORTFOLIO,USD - United States Dollar,PRIVATE DEBT,Internacional,Alternative,Private Debt,Private Debt
+BLACKSTONE REAL ESTATE INCOME-TRUST,BLACKSTONE REAL ESTATE INCOME-TRUST,USD - United States Dollar,ACTIVO INMOBILIARIO,Internacional,Alternative,Real Estate,Real Estate
+BLKCHC2 LX EQUITY,BGF CHINA FUND-C2 USD,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Asia ex Japan,China
+BLUEMOUNTAIN CREDIT ALTERNATIVE,BLUEMOUNTAIN CREDIT ALTERNATIVE FUND CLASS S,USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
+BMANDOA CI EQUITY,BICE LIQUIDEZ DOLAR CLASICA,USD - United States Dollar,CAJA Y M.M.,Internacional,Liquidity,Liquidity,Liquidity
+BNUHULA ID EQUITY,BNY MELLON EFFICIENT U.S. HIGH YIELD BETA FUND,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US HY,Fund
+BOTZ US EQUITY,GLOBAL X ROBOTICS & ARTIFICIAL INTELLIGENCE ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Sector 
+BRANEEI ID EQUITY,BRANDES EUROPEAN VALUE CLASS I,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Open-End Fund
+BRJE1JY ID EQUITY,BLACKROCK INST POOLED EQUITY 1 JAPAN ACC J,JPY - Japan Yen,RENTA VARIABLE,Internacional,Equities,#N/A Mandatory parameter [FIELD] cannot be empty,Open-End Fund
+BRZE US EQUITY,BRAZE INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+BSX US EQUITY,BOSTON SCIENTIFIC CORP,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+BX US EQUITY,BLACKSTONE GROUP LP,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+CAJA CHF,CAJA CHF,CHF - Switzerland Franc,CAJA Y M.M.,Internacional,Liquidity,Liquidity,Liquidity
+CAJA EUR,CAJA EUR,EUR - Euro Member Countries Euro,CAJA Y M.M.,Internacional,Liquidity,Liquidity,Liquidity
+CAJA USD,CAJA USD,USD - United States Dollar,CAJA Y M.M.,Internacional,Liquidity,Liquidity,Liquidity
+CAMARONEX,PAMPA CAMARONES SPA,USD - United States Dollar,RENTA VARIABLE,Nacional,Equities,Chile,Chile
+CAVA US EQUITY,CAVA GROUP INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+CCL US EQUITY,CARNIVAL CORP,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+CCLACDI LX EQUITY,CREDICORP CAPITAL LATIN AMERICAN DEBT FUND I,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Fund
+CCLIGIU LX Equity,CREDICORP LA AM IV GD-I USD,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Fund
+CCMMDOA CI EQUITY,BTG PACTUAL M.M DOLAR A,USD - United States Dollar,CAJA Y M.M.,Internacional,Liquidity,Liquidity,Liquidity
+CELH US EQUITY,CELSIUS HOLDINGS INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+CEUU NA EQUITY,ISHARES CORE MSCI EMU UCITS ETF ACCUM SHS HEDGED USD,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Fund  
+CFI-BTGHLB,BTG PACTUAL HAMILTON LANE GPA FI SERIE B,USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
+CFIEHTR-E,FONDO DE INVERSION EUROPE MEDNEO HEALTH TECH - R,EUR - Euro Member Countries Euro,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
+CFIEPONN-E,F.I. EUROPE PHARMA ONLINE 	NS,EUR - Euro Member Countries Euro,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
+CFIEPONP-E,F.I. EUROPE PHARMA ONLINE P,EUR - Euro Member Countries Euro,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
+CFIEPONR-E,F.I. EUROPE PHARMA ONLINE R,EUR - Euro Member Countries Euro,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
+CFIEPONS-E,F.I. EUROPE PHARMA ONLINE S,EUR - Euro Member Countries Euro,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
+CFI-FMVPBE,FALCOM PORTFOLIO ADVISORS MVP PRIV EQUITY B,USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
+CFI-HMCBPE,"FI HMC SECONDARIES CDR X, SERIE BP",USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
+CFI-HMREDA,FI HMC RENDIMIENTO ESTRATEGICO DOLAR A,USD - United States Dollar,PRIVATE DEBT,Internacional,Alternative,Private Debt,Private Debt
+CFI-HRGDBP,"FI HMC RENTA GLOBAL USD, SERIE BP",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US HY,Fund
+CFIIMDL CI EQUITY,MONEDA DEUDA LATAM,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Fund
+CFI-MBPDUA,MBI PRIVATE DEBT US EVERGREEN,USD - United States Dollar,PRIVATE DEBT,Internacional,Alternative,Private Debt,Private Debt
+CFI-MBPDUI,MBI PRIVATE DEBT US EVERGREEN SERIE I,USD - United States Dollar,PRIVATE DEBT,Internacional,Alternative,Private Debt,Private Debt
+CFIMDLIG-A,"MONEDA LATAM CORPORATE CREDIT FEEDER FI, A",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Fund
+CFIMSCL CI EQUITY,MONEDA S/C LATINOAMERICA,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,LATAM,Latam
+CFIOTVA-E,FONDO DE INVERSION OLIVE TREE VENTURES A,USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
+CFIOTVB-E,FONDO DE INVERSION OLIVE TREE VENTURES B,USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
+CFIPIPOA-E,FONDO DE INVERSION PRE-IPO OPPORTUNITIES MVP SERIE A,USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
+CFIPIPOC-E,FONDO DE INVERSION PRE-IPO OPPORTUNITIES MVP SERIE C,USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
+CFIQRGB CI EQUITY,QUEST RENTA GLOBAL FONDO DE INV SERIE B,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Global,Fund
+CH0361532945 CORP,ZUERCHER KANTONALBANK 3.6% PERPETUA,CHF - Switzerland Franc,RENTA FIJA,Internacional,Fixed Income,Europe,Bond
+CH0506668869 CORP,UBS GROUP BG 3% PERPETUAL,CHF - Switzerland Franc,RENTA FIJA,Internacional,Fixed Income,Europe,Bond
+CHGRGLA CI EQUITY,QUEST RENTA GLOBAL FONDO DE INV SERIE A,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Global,Fund 
+CLS US EQUITY,CELESTICA INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+CMOD LN EQUITY,INVESCO BLOOMBERG COMMODITY,USD - United States Dollar,COMMODITY,Internacional,Alternative,Commodity,Commodity
+COHR US EQUITY,COHERENT CORP,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+COIN US EQUITY,COINBASE GLOBAL INC -CLASS A,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+COMPASS FIP EQUITY IV,COMPASS PRIVATE EQUITY IV PIMCO BRAVO II,USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
+COMPASS FIP EQUITY V,COMPASS PRIVATE EQUITY V LEXING MIDDLE MARKET III,USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
+COMPASS FIP EQUITY VII,COMPASS PRIVATE EQUITY VII,USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
+CPAY US EQUITY,CORPAY INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+CPXJ LN EQUITY,ISHARES MSCI PACIFIC EX JAPAN UCITS ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Asia ex Japan,Fund
+CRESTVIEW III PRIVATE INVESTORS OFFSHORE L.P.,CRESTVIEW III PRIVATE INVESTORS OFFSHORE L.P.,USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
+CRM US EQUITY,SALESFORCE INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+CRTSORB KY EQUITY,CS BLUE OWL TECHNOLOGY INCOME FUND SPC,USD - United States Dollar,PRIVATE DEBT,Internacional,Alternative,Private Debt,Private Debt
+CRWD US EQUITY,CROWDSTRIKE HOLDINGS INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+CSCO US EQUITY,CISCO SYSTEMS INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+CSEMU SW EQUITY,ISHARES CORE MSCI EMU EUR A,EUR - Euro Member Countries Euro,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Fund
+CSIFGEA SW EQUITY,CREDIT SUISSE INDEX FUND (CH) II UMBRELLA - CSIF (CH) II GOLD BLUE,USD - United States Dollar,COMMODITY,Internacional,Alternative,Commodity,Commodity
+CSINDU SW EQUITY,SHARES DOW JONES INDUSTRIAL AVERAGE UCITS ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Large Cap
+CSLACAU LX EQUITY,CREDIT SUISSE LUX LATIN AMERICAN CORPORATE BOND FUND,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Fund
+CSNDX SW EQUITY,ISHARES NASDAQ 100 USD ACC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Large Cap
+CSPX LN EQUITY,ISHARES CORE S&P 500 UCITS ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Large Cap
+CSREAFD KY EQUITY,CS RENAISSANCE EQUITY ACCESS FUND LTD,USD - United States Dollar,ALTERNATIVE INVESTMENT,Internacional,Alternative,Hedge Fund,Hedge Fund
+CSREITB KY EQUITY,BLACKSTONE REIT ACCESS FUND SPC,USD - United States Dollar,ACTIVO INMOBILIARIO,Internacional,Alternative,Real Estate,Real Estate
+CYBU NA EQUITY,ISHARES CHINA CNY BOND ETF USDH DIS ETF,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Other,Fund
+DDOG US EQUITY,DATADOG INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+DE US EQUITY,DEERE & CO,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+DIA US EQUITY,SPDR DOW JONES INDUSTRIAL AVERAGE ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Large Cap
+DT US EQUITY,DYNATRACE INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+DTLA LN EQUITY,ISHARES TREAS BD 20 YR UCITS ETF,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Fund
+DWSTAA2 LX EQUITY,DWS INVEST TOP 50 ASIA,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Asia ex Japan,Other
+ELF US EQUITY,ELF BEATY INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+EMCA LN EQUITY,ISHARES JP MORGAN USD EM CORP BOND UCITS ETF,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Emerging,Fund
+EMERGING MARKET CURRENCY FUND CLASS C,EMERGING MARKET CURRENCY FUND CLASS C,USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
+EPOL US EQUITY,ISAHRES MSCI POLAND ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Fund
+EQAC SW EQUITY,INVESCO EQQQ NASDAQ 100 ETF ACC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Large Cap
+ESIC GY EQUITY,ISHARES EUROPE CONS DIS EURA ETF,EUR - Euro Member Countries Euro,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Fund
+ESIF GY EQUITY,ISHARES MSCI EURO FIN SECT EUR ACC ETF,EUR - Euro Member Countries Euro,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Sector
+ESIH GY EQUITY,ISHARES MSCI EURO HEALTH SECT ETF,EUR - Euro Member Countries Euro,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Sector
+ESIN GY EQUITY,ISHARES MSCI EU INDSTRIAL EUR ACC ETF,EUR - Euro Member Countries Euro,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Sector
+ESIS GR EQUITY,ISHARES MSCI EURO CON STPL SECT ETF,EUR - Euro Member Countries Euro,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Sector
+ESIT GY EQUITY,ISHARES MSCI EURO IT SECT ETF,EUR - Euro Member Countries Euro,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Sector
+ESJCOMR LX EQUITY,EST INV JP SM COM FN-RUUNHD,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,#N/A Mandatory parameter [FIELD] cannot be empty,Open-End Fund
+ETN US EQUITY,EATON CORP,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+EWJ US EQUITY,ISHARES MSCI JAPAN,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Japan,Japan
+EWJV US EQUITY,ISHARES MSCI JAPAN VALUE ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Japan,Japan
+EWU US EQUITY,ISHARES MSCI UNITED KINGDOM ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,UK,UK
+EWZ US EQUITY,ISHARES BRAZIL,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,LATAM,Latam
+FFUSGCU LX EQUITY,JPMORGAN F-US GROWTH-D,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Large Cap
+FFUSVCU LX EQUITY,JPMORGAN F-JPM US VALUE-D,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Large Cap
+FLEFAMC LX EQUITY,JPM AMERICA EQUITY D,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Open-End Fund
+FOFVIAU CI EQUITY,FONDO DE INVERSION F2 VC III,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Asia ex Japan,Sector
+FRAFRAA ID EQUITY,FRANKLIN FLOATING RATE FUND PLC A,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Fund
+FRAINNA LX EQUITY,FRANKLIN  INDIA FUND CLASS N,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Asia ex Japan,India
+FXI US EQUITY,ISHARES MSCI CHINA,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Asia ex Japan,China
+GEV US EQUITY,GE VERNOVA,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+GILD US EQUITY,GILEAD SCIENCES INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+GIND US EQUITY,GOLDMAN SACHS INDIA EQUITY ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Asia ex Japan,India
+GLBE US EQUITY,GLOBAL-E ONLINE LTD,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+GLD US EQUITY,SPDR GOLD SHARES,USD - United States Dollar,COMMODITY,Internacional,Alternative,Commodity,Commodity
+GLUH NA EQUITY,ISHARES II PLC - ISHARES CORE UK GI ETF,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Europe,Fund
+GOLDMAN SACHS GROUP INC SR NTS MTN ZERO CPN 01/24/2040,GOLDMAN SACHS GROUP INC SR NTS MTN ZERO CPN 01/24/2040,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Fund
+GOOGL US EQUITY,ALPHABET INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+GSIEPAU LX EQUITY,GOLDMAN SACHS INDIA EQUITY PORTFOLIO,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Asia ex Japan,India
+GSIERUA LX EQUITY,GOLDMAN SACHS INDIA EQUITY PORTFOLIO R,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Asia ex Japan,India
+GTM US EQUITY,ZOOMINFO TECHNOLOGIES INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+GWRE US EQUITY,GUIDEWIRE SOFTWARE INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+HCOM US EQUITY,HARTFORD SCHRODERS COMMODITY,USD - United States Dollar,COMMODITY,Internacional,Alternative,Commodity,Commodity
+HIGH LN EQUITY,ISHARES EUR HY CORP USD-H A,EUR - Euro Member Countries Euro,RENTA FIJA,Internacional,Fixed Income,Europe,Fund
+HSAS5CH ID EQUITY,HSBC GLOBAL FUNDS ICAV HSBC GLB AGG BD ID USD ACC S5CH DOI,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Other,Fund
+HST US EQUITY,HOST HOTELS & RESORTS INC,USD - United States Dollar,ACTIVO INMOBILIARIO,Internacional,Alternative,Real Estate,Real Estate
+HTEC US EQUITY,ROBO GLOBAL HEALTTHCARE TECHNOLOGY AND INNOVATION ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Sector
+HUM US EQUITY,HUMANA INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+HYGU LN EQUITY,ISHARES EUR HIGH YIELD CORP BOND UC,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Europe,Fund
+IBIT US EQUITY,ISHARES BITCOIN ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Fund
+IBM US EQUITY,INTERNATIONAL BUSINESS MACHINES CORP,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+ICDVAMC CI EQUITY,AMERIS DVA MULTIAXIS FONDO DE INVERSION C,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Large Cap
+IEAU NA EQUITY,ISHARES CORE EUR CORP BOND UCITS,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Europe,Fund
+ILF US EQUITY,ISHARES S&P LATIN AMERICA 40,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,LATAM,Latam
+INLACAA LX EQUITY,NINETY ONE GSF LATIN AMERICAN CORPORATE DEBT FUND CLASS A,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Fund
+INLACIA LX EQUITY,NINETY ONE GSF LATIN AMERICAN CORPORATE DEBT FUND CLASS I,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Fund
+INLACII LX EQUITY,NINETY ONE LATIN AMERICAN CORPORATE DEBT I INC-2,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Fund
+INSM US EQUITY,INSMED INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+INULINI ID EQUITY,INVESCO US DOLLAR LIQDTY PORTFOLIO INSTL ACC,USD - United States Dollar,CAJA Y M.M.,Internacional,Liquidity,Liquidity,Liquidity
+INULPSU ID EQUITY,INVESCO US DOLLAR LIQDTY PORT SELECT ACC,USD - United States Dollar,CAJA Y M.M.,Internacional,Liquidity,Liquidity,Liquidity
+ISAC LN EQUITY,ISHARES MSCI ACWI UCITS ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Large Cap
+ISRG US EQUITY,INTUITIVE SURGICAL INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+ITA US EQUITY,ISHARES US AEROSPACE & DEFENSE ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Sector
+IWM US EQUITY,ISHARES RUSSELL 2000,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Small Cap
+IWO US EQUITY,ISHARES RUSSELL 2000 GRWTH ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Small Cap
+IYJ US EQUITY,ISHARES DJ INDUSTRIAL,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Large Cap
+IYW US EQUITY,ISHARES DJ TECHNOLOGY,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Sector
+JNCVFAA ID EQUITY,JP MANSRT CANADA ACC A,CAD - Canada Dollar,RENTA VARIABLE,Internacional,Equities,USA,Open-End Fund
+JPALPDU LX EQUITY,JPM ASIA GROWTH D,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Asia ex Japan,Other
+JPEA LN EQUITY,ISHARES J.P. MORGAN USD EM BOND UCITS ETF,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Emerging,Fund
+JPGHYBC LX EQUITY,JPMORGAN INVESTMENT FUNDS GLOBAL HIGH YIELD BOND,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Global,Fund 
+JPMAIUA LX EQUITY,JPM MULTI-MANAGER ALT USD ACC I2,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Other,Fund
+JPMEEAU LX EQUITY,JPMORGAN EUROPE EQUITY FUND CLASS A,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Open-End Fund
+JPMEEBU LX EQUITY,JPM EUROPE EQUITY FUND CLASS C,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Open-End Fund
+KNSL US EQUITY,KINSALE CAPITAL GROUP INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+KVYO US EQUITY,KLAVIYO INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+LAACDZU LX EQUITY,NINETY ONE GLOBAL STRATEGY FUND- LATIN AMERICAN CORPORATE DEBT FUND,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Fund
+LASDIUA ID EQUITY,LORD ABBETT SHORT DUR INCOME FUND A,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Fund
+LASDUIA ID EQUITY,LORD ABBETT GLOBAL FUND I PLC,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Fund
+LASDUZA ID EQUITY,LORD ABBETT SHORT DURATION INCOME FUND CLASS Z,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Fund
+LAUSBAA ID EQUITY,LORD ABBETT ULTRA SHT BD A ACC,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Fund
+LFEGUBA LX EQUITY,LUMYNA EURO DEBT GOVT USD ACC B,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Europe,Fund
+LFUCUBA LX EQUITY,LUMYNA AMER DEBT CREDIT USD ACC B,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Fund
+LFUGUBA LX EQUITY,LUMYNA AMERICAN DEBT GOVERNMENT UCITS FUND,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Fund
+LLDYX US EQUITY,LORD ABBETT SHRT DUR INC-I,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Fund
+LLY US EQUITY,ELI LILLY & CO,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+LQD US EQUITY,ISHARES IBOXX INVESTMENT GRADE CORP BOND ETF,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Fund
+LQDA LN EQUITY,ISHARES USD CORP BOND UCITS ETF,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Fund
+LSMMEQI LX EQUITY,LARRAIN VIAL LATIN AMERICAN EQUITY FUND,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,LATAM,Open-End Fund
+LUBAX US EQUITY,LORD ABBETT ULTRA SHORT BOND A (DIS),USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Fund
+LVAHDOF CI EQUITY,LARRAIN VIAL AHORRO DOLAR F,USD - United States Dollar,CAJA Y M.M.,Internacional,Liquidity,Liquidity,Liquidity
+LVMOMAA CI EQUITY,FM LARRAIN VIAL MONEY MARKET A,USD - United States Dollar,CAJA Y M.M.,Internacional,Liquidity,Liquidity,Liquidity
+LVMOMAI CI EQUITY,FM LARRAIN VIAL MONEY MARKET I,USD - United States Dollar,CAJA Y M.M.,Internacional,Liquidity,Liquidity,Liquidity
+MCHP US EQUITY,MICROCHIP TECHNOLOGY INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+MDB US EQUITY,MONGODB INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+MDRAGCA LX EQUITY,BGF-ASIAN DRAGON-C2 USD,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Asia ex Japan,Other
+MEMDIU1 LX EQUITY,MFS EMERGING MARKETS DEBT FUND - I1,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Emerging,Fund
+MEMDW1U LX EQUITY,MFS EMERGING MARKETS DEBT FUND W SHARES,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Emerging,Fund
+MERCATI LX EQUITY,BLACKROCK US DOLLAR HIGH YIELD,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,USA HY,Fund
+MESLU LX EQUITY,BLACKROCK GLOBAL EUROPEAN FUND A2,EUR - Euro Member Countries Euro,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Open-End Fund
+META US EQUITY,META PLATAFORMS INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+MFA1USD LX EQUITY,MFS MERIDIAN U.S. CORPORATE BOND FUND CLASS A1,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Fund
+MFECA1U LX Equity,MFS MER EURO CREDIT-A1 USD,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Europe,Fund
+MFI1USD LX EQUITY,MFS MERIDIAN U.S. CORPORATE BOND FUND CLASS I1,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Fund
+MFLMIU1 LX EQUITY,MFS MERIDIAN FUNDS LIMITED MATURITY FUND,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Fund
+MFLMW1U LX EQUITY,MFS MERIDIAN LIMITED MATURITY FUND CLASS W1 (USD),USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Fund
+MFMRBAR LX EQUITY,MFS MERIDIAN TOTAL RETURN BOND FUND,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Fund
+MFPCA1U LX EQUITY,MFS MER-PRUDENT CAP-A1USD,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Global,Fund 
+MFSEDA1 LX EQUITY,MFS MERIDIAN EMERGING MARKETS DEBT FUND A1,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Emerging,Fund
+MIGOEAE LX EQUITY,BGF-CONT EUR FLX-A2 EUR,EUR - Euro Member Countries Euro,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Other
+MIGRANTE SERIE A-1,MIGRANTE SERIE A-1,USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
+MIGRANTE SERIE B-1,MIGRANTE SERIE B-1,USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
+MIGSDCA LX EQUITY,BGF US DOLLAR RESERVE C,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Fund
+MIGSEUI LX EQUITY,BGF-EUROPEAN FUND-A2 USD,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Other
+MLATAMD KY EQUITY,MONEDA LATIN AMERICAN CORPORATE DEBT FUND,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Fund
+MLEUCCC LX EQUITY,BGF-EUROPEAN-C2 USD,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Other
+MLGCUBA LX EQUITY,LUMYNA GLB DBT CRDIT ACC B,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Other,Fund
+MLGDUBA LX EQUITY,LUMYNA -GLOBAL DEBT-GOVT UCITS FD LUMY GLB DBT GOVNM UCITS USD ACC B,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Other,Fund
+MLGSUBA LX EQUITY,LUMYNA- GLB DBT SECUR UCITS ACC B,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Fund
+MLJVA2U LX EQUITY,BGF JAPAN FLEXIBLE EQUITY FUND,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Japan,Japan
+MLJVC2U LX EQUITY,BGF-JAPAN FLX E-C2 USD CAP,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Japan,Japan
+MOCCIAU LX EQUITY,MONEDA LUX LATIN AME CREDIT II FUND,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Fund
+MOCCIIU LX EQUITY,"MONEDA LATAM CORPORATE CREDIT FEEDER FI, I",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Fund
+MOCCIU LX EQUITY,MONEDA LUX LATIN AME CREDIT II I FUND,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Fund
+MORITAI LX EQUITY,MS IF-EUROPEAN H/Y BD FD-A,EUR - Euro Member Countries Euro,RENTA FIJA,Internacional,Fixed Income,Europe,Fund
+MSFT US EQUITY,MICROSOFT CORP,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+MSTEUCA LX EQUITY,MSIF-EUROPE OPP-A EUR,EUR - Euro Member Countries Euro,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Other
+MU US EQUITY,MICRON TECHNOLOGY INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+MUSHYCA LX EQUITY,BGF-USD HIGH YIELD BOND,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,USA HY,Fund
+MUZEUHR ID EQUITY,MUZINICH FD - ENHANCED YIELD SHORT,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Fund
+MVP ALL-STAR FUND IV-C,MVP ALL-STAR FUND IV-C,USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
+MWMOPPU ID EQUITY,ACCUM PTG.SHS -A- USD MARSHALL WACE FUNDS PLC - MW GLOBAL OPPORTUNITIES FUND,USD - United States Dollar,ALTERNATIVE INVESTMENT,Internacional,Alternative,Hedge Fund,Hedge Fund
+NANO CUANTUM GROUP,NANO CUANTUM GROUP,USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
+NDIA LN EQUITY,ISHARES MSCI INDIA UCITS ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Asia ex Japan,India
+NEE US EQUITY,NEXTERA ENERGY INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+NELSEUI ID EQUITY,NEUBERGER BERMAN INVESTMENT NB US L/S I3 ACC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Open-End Fund
+NEORENTAS NORTH COLONY SEIS,NEORENTAS NORTH COLONY SEIS,USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
+NFLX US EQUITY,NETFLIX,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+NKE US EQUITY,NIKE INC -CL B,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+NTRA US EQUITY,NATERA INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+NUSHYAU ID EQUITY,NOMURA IRELAND U.S. HIGH YIELD BOND FUND CLASS A,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US HY,Fund
+NUSHYIU ID EQUITY,NOMURA-US HIGH YLD BD-I USD,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,USA HY,Fund
+NVDA US EQUITY,NVIDIA CORP,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+NXPI US EQUITY,NXP SEMICONDUCTORS NV,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Stock
+ODFL US EQUITY,OLD DOMINION FREIGHT LINES INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+OLIVE TREE VENTURES I LP,OLIVE TREE VENTURES I LP,USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
+ON US EQUITY,ON SEMICONDUCTOR CORP,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+ORCL US EQUITY,ORACLE CORP,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+PBIINEY ID EQUITY,PINEBRIDGE INVEST INDIA EQ Y HELD BY EUROCLEAR,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Asia ex Japan,India
+PEP US EQUITY,PEPSICO INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+PFIFGEA LX EQUITY,PICTET - GLOABAL EMERGING DEB,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Emerging,Fund
+PIAHYEI ID EQUITY,PIMCO-ASIA HIGH YLD BD-E INC,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Asia ex Japan,Fund  
+PIMINEA ID EQUITY,PIMCO GIS INCOME FUND CLASS E,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Fund
+PIMMOIA ID EQUITY,PIMCO MORTGAGE OPPORTUNITIES FUND,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,ABS,Fund
+PINS US EQUITY,PINTEREST INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+PIPUCAI LX EQUITY,PICTET SHORT-TERM MONEY MARKET FUND,USD - United States Dollar,CAJA Y M.M.,Internacional,Liquidity,Liquidity,Liquidity
+PLTR US EQUITY,PALANTIR TECHNOLOGIES INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+PM US EQUITY,PHILIP MORRIS INTERNATIONAL,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+PMMUSDI SW EQUITY,PICTET CH-SHORT TERM MONEY MARKET USD,USD - United States Dollar,CAJA Y M.M.,Internacional,Liquidity,Liquidity,Liquidity
+PPA US EQUITY,INVESCO AEROSPACE & DEFENSE ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Sector
+PWR US EQUITY,QUANTA SERVICES INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+QQQ US EQUITY,INVESCO QQQ TRUST,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Large Cap
+RCMEATU LX EQUITY,ALLIANZ GL INVEST SICAV EUR,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Other
+RDVY US EQUITY,FIRST TRUST RISING DIVIDEND ACHIEVERS ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Small Cap
+RH US EQUITY,RESTORATION HARDWARE HOLDINGS INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+ROBO US EQUITY,GLOBAL ROBOTICS AND AUTOMATION INDEX ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Japan,Sector
+RS GLOBAL ENERGY AND POWER PRIVATE INVESTORS L.P.,RS GLOBAL ENERGY AND POWER PRIVATE INVESTORS L.P.,USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
+RSPD US EQUITY,INVESCO S&P 500 EQUAL WEIGHT,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Large Cap
+SCASICU LX EQUITY,SCHRODER ISF ALTERNATIVE SECURITISED INCOME FUND CLASS C,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,ABS,Fund
+SCASIUI LX EQUITY,SCHRODER ISF ALTERNATIVE SECURITISED INCOME FUND CLASS i,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,ABS,Fund
+SCHASNY LX EQUITY,SCHRODER ISF ALTERNATIVE SECURITISED INCOME,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,ABS,Fund
+SCHICCA LX EQUITY,SCHRODER ISF SECURITISED CREDIT C ACC,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,ABS,Fund
+SCHPFAA LX EQUITY,SCHRODER INT SELEC FUND ASIAN OPPORTUNITIES,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Asia ex Japan,Other
+SCHPFCA LX EQUITY,SCHRODER ASIAN OPPORTUNITIES,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Asia ex Japan,Other
+SCHW US EQUITY,SCHWAB (CHARLES) CORP,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+SCSPECU LX EQUITY,SCHRODER GA II SPE PE-CUSD,USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
+SDVY LN EQUITY,FIRST TRUST GLOBAL SMID RISING DIVIDEND ACHIEVERS ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Small Cap
+SDVY US EQUITY,FIRST TRUST SMID CAP RISING DIVIDEND ACHIEVERS ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Large Cap
+SECDOLMM CI EQUITY,FM SECURITY DOLAR MM SERIE A,USD - United States Dollar,CAJA Y M.M.,Internacional,Liquidity,Liquidity,Liquidity
+SGIPAUA LX EQUITY,SCHRODER GA II GLB INN PR-AUA,USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
+SHOP US EQUITY,SHOPIFY INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+SHS CS REAL ESTATE SICAV-SIF I - CREDIT SUISSE,SHS CS REAL ESTATE SICAV-SIF I - CREDIT SUISSE EUROPEAN PROPERTY FUND II CLASS U,EUR - Euro Member Countries Euro,ACTIVO INMOBILIARIO,Internacional,Alternative,Real Estate,Real Estate
+SHW US EQUITY,SHERWIN-WILLIAMS CO/THE,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+SISEAAA LX EQUITY,SCHRODER INTL EU VAL-AA,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Other
+SLAUIWA ID EQUITY,SEI LIQUID ALTS WEALTH A USD ACC,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Other,Fund
+SMH LN EQUITY,VANECK SEMICONDUCTOR UCITS ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Large Cap
+SNOW US EQUITY,SNOWFLAKE INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+SOXX US EQUITY,ISHARES SEMICONDUCTOR ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Large Cap
+SPFSPLD KY EQUITY,SECURITIZED PRODUCTS FUND LTD USD 0.01 TRANCHE 2 RESTRICTED,USD - United States Dollar,ALTERNATIVE INVESTMENT,Internacional,Alternative,Hedge Fund,Hedge Fund
+SPOT US EQUITY,SPOTIFY TECHNOLOGY SA,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+SPXS LN EQUITY,INVESCO S&P 500 UCITS ETF ACCUM SHS,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Large Cap
+SPY US EQUITY,ETF SPDR S&P 500,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Large Cap
+SQM US EQUITY,SOQUIMICH ADR,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+SSPVEA1 LX EQUITY,SCHR GA II SPE PRIV E-A1USD,USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
+STARWOOD REAL ESTATE INCOME TRUST OFFSHORE,STARWOOD REAL ESTATE INCOME TRUST OFFSHORE,USD - United States Dollar,ACTIVO INMOBILIARIO,Internacional,Alternative,Real Estate,Real Estate
+STN FP EQUITY,SPDR MSCI EUR ENERGY UCITS ETF,EUR - Euro Member Countries Euro,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Sector
+STQ FP EQUITY,SPDR MSCI EUR INDUS UCITS ETF,EUR - Euro Member Countries Euro,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Sector
+STTX IM EQUITY,SPDR MSCI EURO TELE EUR ACC ETF,EUR - Euro Member Countries Euro,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Sector
+STX US EQUITY,SEAGATE TECHNOLOGY HOLDINGS,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+SYK US EQUITY,STRYKER CORP,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+TEAM US EQUITY,ATLASSIAN CORP PLC CLASS A,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+TEMFRBX LX EQUITY,TEMPLETON ASIAN GROWTH FUND CLASS N,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Asia ex Japan,Other
+THNQ US EQUITY,ROBO GLOBAL ARTIFICIAL INTELLIGENCE ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Sector
+TIGER GLOBAL PIP XV PRIVATE,TIGER GLOBAL PIP XV PRIVATE,USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
+TMO US EQUITY,THERMO FISHER SCIENTIFIC INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+TOST US EQUITY,TOAST INC-CLASS A,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+TREX LN EQUITY,INVESCO US TREASURY BD 7-10 UCITS ETF,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Fund
+TSM US EQUITY,TAIWAN SMCNDCTR MFG CO LTD ADR,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Asia ex Japan,Stock
+TT US EQUITY,TRANE TECHNOLOGIES PLC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+TTWO US EQUITY,TAKE-TWO INTERACTIVE SOFTWARE INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+TXN US EQUITY,TEXAS INSTRUMENTS INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+U US EQUITY,UNITY SOFTWARE INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+UBSICQC SW EQUITY,UBS SWISS INCOME EQUITY  FUND,CHF - Switzerland Franc,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Open-End Fund
+US05565QDU94 CORP,BP CAPITAL MARKETS PLCDL-FLR NOTES 4.375% PERPETUAL,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Europe,Bond
+US09261HBN61 CORP,BLACKSTONE PRIVATE CR 5.95% 2029,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Bond
+US11135FAL58 CORP,"BROADCOM INC 4,11% 2028",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Bond
+US195325DZ51 CORP,"REPUBLIC OF COLOMBIA 3,25% 2032",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
+US195325EF88 CORP,REPUBLIC OF COLOMBIA 8% 2033,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
+US279158AN94 CORP,ECOPETROL SA 6.875% 2030,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
+US279158AP43 CORP,"ECOPETROL SA 4,625% 2031",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
+US279158AW93 CORP,ECOPETROL SA 7.75% 2032,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
+US281020BB24 CORP,"EDISON INTERNATIONAL 5,25% 2032",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Bond
+US345370DA55 CORP,"FORD MOTOR CO 3,25% 2032",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Bond
+US345397B363 CORP,FORD MOTOR CREDIT COMPANY 4% 2030,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Bond
+US34540TF988 CORP,"FORD MOTOR CREDIT CO LLC 6,25% 2027",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Bond
+US37045XCY04 CORP,GENERAL MOTORS FINL CO INC 3.6% 2030,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Bond
+US382550BG56 CORP,GOODYEAR TIRE AND RUBBER 4.875% 2027,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Bond
+US40058JDL61 CORP,GOLDMAN SACHS FINANCE CORP 0% 2027,USD - United States Dollar,STRUCTURED NOTE,Internacional,Alternative,Structured Note,Structured Note
+US46647PDF09 CORP,JP MORGAN CHASE & CO 4.565% 2029,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Bond
+US55903VBC63 CORP,WARNERMEDIA HOLDINGS INC 4.279% 2032,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Bond
+US58733RAE27 CORP,MERCADO LIBRE INC 2.375% 2026,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
+US58733RAF91 CORP,MERCADO LIBRE INC 3.125% 2031,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
+US698299BN37 CORP,"PANAMA REPUBLIK 2,252% 2032",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Emerging,Bond 
+US698299BX19 CORP,REPUBLIC OF PANAMA 7.5% 2031,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
+US83088MAK80 CORP,"SKYWORKS SOLUTIONS INC 1,8% 2026",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Bond
+US83088MAL63 CORP,SKYWORKS SOLUTIONS INC 3% 2031,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Bond
+US833636AH64 CORP,"SQM 4,25% 2029",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
+US86964WAF95 CORP,SUZANO AUSTRIA 6% 2029,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
+US86964WAH51 CORP,SUZANO AUSTRIA GMBH 5%  2030,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
+US89356BAC28 CORP,"TRANSCANADA 5,3% 2077",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Bond
+US91911TAQ67 CORP,VALE OVERSEAS LIMITED 3.75% 2030,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
+USA35155AA77 CORP,KLABIN AUSTRIA GMBH 5.75% 2029,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
+USC10602BN61 CORP,BOMBARDIER INC 7.25% 2031,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,USA HY,Bond
+USG0399BAA55 CORP,"ANTOFAGASTA PLC 5,625% 2032",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
+USG0623EAC33 CORP,"NOTES ATRIUM XII REG S FLTG RT 0%, 2027",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Global,Other
+USG0624LAB83 CORP,"COLLATERALIZED DEBT OBLIGATIONS ATRIUM XIII REG S FLOATING RATE 0%, 2047",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Global,Other
+USG0626AAB01 CORP,"NOTES ATRIUM XV SUBORDINATE REG S 0%, 2031",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Europe,Other
+USG25343AB36 CORP,COSAN S.A 5.5% 2029,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
+USG2583XAB76 CORP,"CSN INOVA VENTURES 6,750% 2028",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
+USG2850HAA08 CORP,"NOTES DRYDEN 30 SENIOR LOAN FUND 0%, 2025",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,USA HY,Bond
+USG94017AC77 CORP,"CLO VOYA CLO LTD SUBORD REG S VAR RT LEG MAT 0%, 2029",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,USA HY,Bond
+USG9402YAB95 CORP,COLLATERALIZED LOAN OBLIGATIONS VOYA CLO LTD REG S FLOATING RATE 0% 2027,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,USA HY,Bond
+USH42097FA09 CORP,UBS GROUP AG 7% PERPETUAL,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Europe,Bond
+USL56608AL39 CORP,JBS USA FOOD FINANCE 5.75% 2033,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US HY,Bond
+USN15516AD40 CORP,BRASKEM NETHERLANDS 4.5 2030,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
+USN7163RAY91 CORP,PROSUS NV 4.987% 2052,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Europe,Bond
+USP01020AK52 CORP,"AGROSUPER SA SR NTS 4.6%, 2032",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
+USP0608AAB28 CORP,"AES PANAMA 4,375% 2030",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
+USP2000TAB19 CORP,"BANCO DO BRASIL 6,25% 2030",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
+USP2195VAR61 CORP,CELULOSA ARAUCO CONSTITU 4.2% 2030,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
+USP2205JAQ33 CORP,CENCOSUD 4.375% 2027,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
+USP2253TJN02 CORP,"CEMEX 5,45% 2029",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
+USP2316YAA12 CORP,CAP SA 3.9% 2031,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
+USP29595AB42 CORP,"COMISION FEDERAL DE ELEC 4,75% 2027",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
+USP3067GAG66 CORP,CIA CERVECERIAS UNIDAS 3.35% 2032,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
+USP37115AF26 CORP,ENTEL 4.75% 2026,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
+USP3984LAA81 CORP,FALABELLA SA 3.375% 2032,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
+USP62138AB13 CORP,"LATAM AIRLINES 7,875%, 2030",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
+USP62138AC95 CORP,LATAM AIRLINES 7.625% 2031,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
+USP6680PAB78 CORP,"CIA DE MINAS BUENAVENTURA 6,8% 2032",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
+USP8718AAL00 CORP,"SQM 4,25% 2029",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
+USP8718AAP14 CORP,"SQM 6,50% 2033",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
+USP90375AV12 CORP,TELEFONICA 3.537% 2031,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,LATAM,Bond
+USR9900CAR71 CORP,YARA INTERNATIONAL ASA 4.75% 2028,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Emerging,Bond
+USU1109MAU00 CORP,BROADCOM INC 3.419%% 2028,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Bond
+USY5257YAM94 CORP,LENOVO GROUP LTD 6.536% 2032,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Emerging,Bond 
+UTIIDEI ID EQUITY,UTI INDIA DYNAMIC EQUITY FUND,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Asia ex Japan,India
+UTIURDR ID EQUITY,UTI INDIA DYNAMIC EQUITY FUND USD RDR,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Asia ex Japan,India
+VAGBIIP ID EQUITY,VANGUARD JAPAN GOV BD USDH ACC I,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Europe,Fund
+VERASUR ID EQUITY,VERITAS FUND ASIAN,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Asia ex Japan,Other
+VHT US EQUITY,VANGUARD HEALTH CARE ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Sector
+VINTAGE EUROPEAN OPPORTUNITY FUND OFFSHORE L.P.,VINTAGE EUROPEAN OPPORTUNITY FUND OFFSHORE L.P.,USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
+VOLCOMCAPITAL PE SECONDARY I,VOLCOMCAPITAL PE SECONDARY I ARDIAN SERIE A,USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
+VOLCOMCAPITAL SPECIAL SITUATIONS II FONDO DE INVERSION,VOLCOMCAPITAL SPECIAL SITUATIONS II FONDO DE INVERSION CVC,USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
+VOTSUH1 LX EQUITY,VONTOBEL FUND-TWENTYFOYR STRAT,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Europe,Fund
+VOX US EQUITY,VANGUARD COMMUNICATION SERVICES INDEX FUND ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Sector
+WSEEBUU ID EQUITY,WELLINGTON STRAT EUR EQ-D USD AC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Other
+WSEENHI ID EQUITY,WELLINGTON STRAT EUR EQ-N AC H,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Open-End Fund
+WSM US EQUITY,WILLIAMS SONOMA INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Stock
+X71U LN EQUITY,XTRACKERS II EUROZON ETF,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Europe,Fund
+XD0293341893 CORP,MILLENNIUM INTERNATIONAL HEDGEFOCUS FUND LTD SERIES,USD - United States Dollar,ALTERNATIVE INVESTMENT,Internacional,Alternative,Hedge Fund,Hedge Fund
+XD1381611031,APOLLO DEBT SOLUTIONS BDC ICAPITAL OFFSHORE ACCESS FUND SPC USD,USD - United States Dollar,PRIVATE DEBT,Internacional,Alternative,Private Debt,Private Debt
+XD1453506697,A&Q DIRECT ACCESS AEF SP NEW ISSUES,USD - United States Dollar,ALTERNATIVE INVESTMENT,Internacional,Alternative,Hedge Fund,Hedge Fund
+XDAX GR EQUITY,XTRACKERS DAX UCITS ETF,EUR - Euro Member Countries Euro,RENTA VARIABLE,Internacional,Equities,Europe ex UK,Fund
+XF0002897326,FUND PRE-PAYM USD,USD - United States Dollar,CAJA Y M.M.,Internacional,Liquidity,Liquidity,Liquidity
+XF0040764023 CORP,INVESTMENT AMOUNT WITH PE SECURITIZATION (LUX) S.A. - FOCUS NATURAL RESOURCES 2015 COMPARTMENT - CLASS A SHARES (APOLLO),USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,Private Equity,Private Equity
+XF0040804696 CORP,INVESTMENT AMOUNT WITH PE SECURITIZATION (LUX) S.A.-FOCUS OPPORTUNISTIC CREDIT 2017 CLASS E SHARES (CARVAL),USD - United States Dollar,PRIVATE DEBT,Internacional,Alternative,Private Debt,Private Debt
+XLF US EQUITY,SELECT SECTOR SPDR TR FINANCIAL,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Large Cap
+XLI US EQUITY,SELECT SECTOR SPDR TR INDL,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,USA,Large Cap
+XS1596778008 CORP,"UNICREDIT SPA 4,625% 2027",USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,Europe,Bond
+MANGLOJ ID Equity,MAN GBL INVST GRDE OPPO-D US,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Fund
+PIMCMEI ID Equity,PIMCO GIS-INCOME FUND-EI,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US IG,Fund
+MGHODVH ID Equity,MAN HIGH YIELD OPPORTU-DV HU,USD - United States Dollar,RENTA FIJA,Internacional,Fixed Income,US HY,Fund
+,,,,,,,
+ARISTEIA INTERNATIONAL LIMITED CLASS G SHARES,ARISTEIA INTERNATIONAL LIMITED CLASS G SHARES HOLDBACK,USD - United States Dollar,PRIVATE EQUITY,Internacional,Alternative,,
+CDNS US EQUITY,CADENCE DESIGN SYSTEMS,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
+DPZ US EQUITY,DOMINOS PIZZA INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
+BURL US EQUITY,BURLINGTON STORES INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
+INFY US EQUITY,INFOSYS LTD,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
+OS US EQUITY,ONESTREAM INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
+MELI US EQUITY,MERCADOLIBRE INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
+UBER US EQUITY,UBER TECHNOLOGIES INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
+MNDY US EQUITY,MONDAY.COM LTD,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
+MA US EQUITY,MASTERCARD INC-CLASS A,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
+SNDK US EQUITY,SANDISK CORP,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
+IR US EQUITY,INGERSOLL-RAND PLC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
+FI US EQUITY,FISERV INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
+TTD US EQUITY,TRADE DESK INC/THE,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
+RDDT US EQUITY,REDDIT INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
+MNST US EQUITY,MONSTER BEVERAGE CORP,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
+AMDVASC CI EQUITY,"AMERIS DVA SILICON FUND FI, SERIE C",USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
+AMDVASC CI EQUITY,"AMERIS DVA SILICON FUND FI, SERIE C",USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
+CRWV US EQUITY,COREWEAVE INC CLASS A,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
+DELL US EQUITY,DELL,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
+LOW US EQUITY,LOWE'S COMPANIES INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
+ADI US EQUITY,ANALOG DEVICES INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
+ADI US EQUITY,ANALOG DEVICES INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
+HON US EQUITY,HONEYWELL INTERNATIONAL INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
+UNH US EQUITY,UNITEDHEALTH GROUP INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
+EXAS US EQUITY,EXACT SCIENCES CORPORATION,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
+CGNX US EQUITY,COGNEX CORPORATION,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
+MKTX US EQUITY,MARKETAXES HOLDING INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
+BMY US EQUITY,BRISTOL-MYERS SQUIBB CO,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
+MFIC US EQUITY,MIDCAP FINANCIAL INVESTMENT,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
+PSTG US EQUITY,PURE STORAGE INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
+MRVL US EQUITY,MARVELL TECHNOLOGY GROUP LTD,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
+DUOL US EQUITY,DUOLINGO INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
+BABA US EQUITY,ALIBABA GROUP HOLDING LTD,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
+WDC US EQUITY,WESTERN DIGITAL CORP,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
+CARR US EQUITY,CARRIER GLOBAL CORP,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
+SLB US EQUITY,SCHLUMBERGER LTD,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
+BHI US EQUITY,BAKER HUGHES INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
+TCOM US EQUITY,TRIP.COM GROUP LTD ADR,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
+MOS US EQUITY,THE MOSAIC COMPANY,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
+NTR US EQUITY,NUTRIEN LTD,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
+DASH US EQUITY,DOORDASH INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
+NVO US EQUITY,NOVO-NORDISK SPONS ADR,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
+APH US EQUITY,AMPHENOL CORP-CL A,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
+BFLY US EQUITY,BUTTERFLY NETWORK INC,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
+CIEN US EQUITY,CIENA CORP,USD - United States Dollar,RENTA VARIABLE,Internacional,Equities,,
+BTGABED CI EQUITY,BTG PACTUAL ABSOLUTO BRASIL EQUITY FUND,CLP - Chile Peso,RENTA VARIABLE,Nacional,,,
+CSABAFD KY EQUITY,CREDIT SUISSE ALTERNATIVE ACCESS SPC - BA FOCUS SEGREGATED PORTFOLIO (BRIDGEWATER),USD - United States Dollar,ALTERNATIVE INVESTMENT,Internacional,,,
+XS0308427581 CORP,DP WORLD LTD 6.85% 2037,USD - United States Dollar,RENTA FIJA,Internacional,,,
+USP9406GAC26 CORP,"TRUST FIBRAUNO 5,25% 2026",USD - United States Dollar,RENTA FIJA,Internacional,,,
+US251525AP63 CORP,"DEUTSCHE BANK AG 4,5% 2025",USD - United States Dollar,RENTA FIJA,Internacional,,,
+USF2R125AC99 CORP,"CREDIT AGRICOLE SA 4,375% 2025",USD - United States Dollar,RENTA FIJA,Internacional,,,
+US05578UAD63 CORP,"BPCE SA 4,5% 2025",USD - United States Dollar,RENTA FIJA,Internacional,,,
+USU98401AA75 CORP,XEROX HOLDING CORPS 5% 2025,USD - United States Dollar,RENTA FIJA,Internacional,,,
+USG471ABNV88 CORP,"IIMPERIAL BRANDS FIN PLC 3,5% 2026",USD - United States Dollar,RENTA FIJA,Internacional,,,
+CH0481013784 CORP,JULIUS BAER GROUP LTD 2.375% PERPETUAL,CHF - Switzerland Franc,RENTA FIJA,Internacional,,,
+US912828YB05 CORP,TREASURY NOTES UNITED STATES OF AMERICA 1.625% 2029,USD - United States Dollar,RENTA FIJA,Internacional,,,
+US05971WAC73 CORP,"BANCO SANTANDER SA 2,7% 2025",USD - United States Dollar,RENTA FIJA,Internacional,,,
+US135087N757 CORP,"BONDS CANADA GOVERNMENT 2.875%, 2025",USD - United States Dollar,RENTA FIJA,Internacional,,,
+USP98118AA38 CORP,"NEXA RESOURCES SA 5,375% 2027",USD - United States Dollar,RENTA FIJA,Internacional,,,
+CSLLBUB LX EQUITY,CS LUX LATAM CRP BOND-UB USD,USD - United States Dollar,RENTA FIJA,Internacional,,,
+US912828Z781 CORP,"TREASURY NOTES UNITED STATES OF AMERICA 1,5%, 2027",USD - United States Dollar,RENTA FIJA,Internacional,,,
+CH1160382904 CORP,ITAU BBA INTERNATIONAL PLC 0.56% 2025,CHF - Switzerland Franc,RENTA FIJA,Internacional,,,
+USN84413CL06 CORP,"SYNGENTA FINANCE NV 4,892% 2025",USD - United States Dollar,RENTA FIJA,Internacional,,,
+BSTD210622,BANCO SANTANDER CHILE 2.6% 2025,CLF - Chile UF,RENTA FIJA,Nacional,,,
+BSTDU51020,BANCO SANTANDER CHILE 2.7% 2025,CLP - Chile Peso,RENTA FIJA,Nacional,,,
+BCHIAW0213,"BANCO DE CHILE 3,6% 2025",CLF - Chile UF,RENTA FIJA,Nacional,,,
+BCSMU-AK,SMU 3% 2025,CLF - Chile UF,RENTA FIJA,Nacional,,,
+CAJA CLF,CAJA CLF,CLF - Chile UF,CAJA Y M.M.,Nacional,,,
+SMH US EQUITY,VANECK SEMICONDUCTOR,USD - United States Dollar,RENTA VARIABLE,Internacional,,,
+MLLEUA2 LX EQUITY,BLACKROCK GLB EMG MKTS LOCAL CURR BOND,USD - United States Dollar,RENTA FIJA,Internacional,,,
+US46647PCV67 CORP,JPMORGAN CHASE & CO 2.595% 2026,USD - United States Dollar,RENTA FIJA,Internacional,,,
+US84265VAA35 CORP,SOUTHERN COPPER CORP 7.5% 2035,USD - United States Dollar,RENTA FIJA,Internacional,,,
+IMTMONB CI EQUITY,CREDICORP MONEY MARKET B,USD - United States Dollar,CAJA Y M.M.,Nacional,,,
+BCAPEMA CI EQUITY,BANCHILE CAPITAL EMPRESARIAL A,CLP - Chile Peso,CAJA Y M.M.,Nacional,,,
+BCAPEMP CI EQUITY,BANCHILE CAPITAL EMPRESARIAL,CLP - Chile Peso,CAJA Y M.M.,Nacional,,,
+NCSGUIA ID EQUITY,NEW CAPITAL USSCG-USDIA,USD - United States Dollar,RENTA VARIABLE,Internacional,,,
+SWKS US EQUITY,SKYWORKS SOLUTIONS INC,USD - United States Dollar,RENTA VARIABLE,Internacional,,,
+MFEGAU1 LX EQUITY,MFS MER-EURPN COR EQ-A1USD,USD - United States Dollar,RENTA VARIABLE,Internacional,,,
+BICLIQX CI EQUITY,BICE LIQUIDEZ PESOS INVERSIONISTA,CLP - Chile Peso,CAJA Y M.M.,,,,
+MBIRFANV CI EQUITY,MBI DEUDA PLUS FI - A,CLP - Chile Peso,RENTA FIJA,,,,
+IPI US EQUITY,INTREPID POTASH INC,USD - United States Dollar,RENTA VARIABLE,Internacional,,,
+ESJCOMR LX EQUITY,EST INV JP SM COM FN-RUUNHD,USD - United States Dollar,RENTA VARIABLE,Internacional,,,
+IEO US EQUITY,ISHARES U.S. OIL & GAS EXPLO,USD - United States Dollar,RENTA VARIABLE,Internacional,,,
+LAUSBZA ID EQUITY,LORD ABBETT ULTRA SHORT BOND Z USD ACC,USD - United States Dollar,RENTA FIJA,Internacional,,,
+MUSDHYA LX EQUITY,MORGAN STANLEY INVF U.S. DOLLAR SHORT DURATION HIGH YIELD BOND FUND CLASS A,USD - United States Dollar,RENTA FIJA,Internacional,,,
+AECHAUC LX EQUITY,AMUNDI EMMK CORP HIYLD BD A,USD - United States Dollar,RENTA FIJA,Internacional,,,
+AECHAUC LX EQUITY,AMUNDI EMMK CORP HIYLD BD A,USD - United States Dollar,RENTA FIJA,Internacional,,,
+MFW1USD LX EQUITY,MFS MERIDIAN FUNDS CORPORATE BOND ACC,USD - United States Dollar,RENTA FIJA,Internacional,,,
+IBB US EQUITY,ISHARES NASDAQ BIOTECHNOLOGY ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,,,
+MLGCBA2 LX EQUITY,BGF GLOBAL CORPORATE BOND A,USD - United States Dollar,RENTA FIJA,Internacional,,,
+PAGARE BYG 3,PAGARE PC CLP 0.70% MENSUAL,CLP - Chile Peso,INVERSIONES SOCIEDADES,Nacional,,,
+ECH US EQUITY,ISHARES MSCI CHILE,USD - United States Dollar,RENTA VARIABLE,Internacional,,,
+MGLOA1U LX EQUITY,MFS MERIDIAN GLB OPP BND FUND,USD - United States Dollar,RENTA FIJA,Internacional,,,
+MSEMCDA LX EQUITY,MS EMERGING MKTS CORP DEBT A,USD - United States Dollar,RENTA FIJA,Internacional,,,
+STPX IM EQUITY,SPDR MSCI EUROPE MATERIALS EUR ACC ETF,EUR - Euro Member Countries Euro,RENTA VARIABLE,Internacional,,,
+XDN0 GR EQUITY,XTRACKERS MSCI NORDIC EUR DIST,EUR - Euro Member Countries Euro,RENTA VARIABLE,Internacional,,,
+BRJE1JY ID EQUITY,BLACKROCK INST POOLED EQUITY 1 JAPAN ACC J,JPY - Japan Yen,RENTA VARIABLE,Internacional,,,
+SLIEKUH LX EQUITY,ABRDN EURO CORPORATE BONF USD HDG ACC K,USD - United States Dollar,RENTA FIJA,Internacional,,,
+MBIARANV CI EQUITY,MBI ARBITRAGE FONDO DE INVERSION A,CLP - Chile Peso,RENTA VARIABLE,Internacional,,,
+VBR US EQUITY,VANGUARD SMALL-CAP VALUE ETF INC,USD - United States Dollar,RENTA VARIABLE,Internacional,,,
+MBIGLONV CI EQUITY,MBI GLOBAL FONDO DE INVERSION A,USD - United States Dollar,RENTA VARIABLE,Internacional,,,
+BBCIS-P36B,"BCI SECURITIZADORA S.A. 14,17% 2029",CLP - Chile Peso,RENTA FIJA,Nacional,,,
+CFI-FALCDW,FI FALCOM LATAM CORP DEBT FUND W,USD - United States Dollar,RENTA FIJA,Internacional,,,
+US24703TAG13 CORP,"DELL INTERNATIONAL LLC 5,3% 2029",USD - United States Dollar,RENTA FIJA,Internacional,,,
+US345397B777 CORP,"FORD MOTOR CREDIT CO LLC 2,7% 2026",USD - United States Dollar,RENTA FIJA,Internacional,,,
+DCORPCH CI EQUITY,BTG PACTUAL DEUDA CORPORATIVA CHILE,CLP - Chile Peso,RENTA FIJA,Nacional,,,
+MSGOPPA LX EQUITY,MORGAN STANLEY INVF GLOBAL OPPORTUNITY FUND CLASS A,USD - United States Dollar,RENTA VARIABLE,Internacional,,,
+BSTDP90315,BANCO SANTANDER CHILE 2.6% 2025,CLF - Chile UF,RENTA FIJA,Nacional,,,
+BCSMU-T,SMU 3% 2025,CLF - Chile UF,RENTA FIJA,Nacional,,,
+JPMGBOA LX EQUITY,JPMORGAN GLOBAL BOND OPPORTUNITIES FUND CLASS A,USD - United States Dollar,RENTA FIJA,Internacional,,,
+NCAFUIA ID EQUITY,NEW CAP ASIA FUTR LDER-USDIA,USD - United States Dollar,RENTA VARIABLE,Internacional,,,
+MJFOX US EQUITY,MATTHEWS JAPAN INVESTOR FUND,USD - United States Dollar,RENTA VARIABLE,Internacional,,,
+BBHYIUB LX EQUITY,BLUEBAY HIGH YIELD BOND FUND I,USD - United States Dollar,RENTA FIJA,Internacional,,,
+FODESTA CI EQUITY,FONDO MUTUO BANCHILE ESTRUCTURADO DOLAR II SERIE A,USD - United States Dollar,RENTA FIJA,Internacional,,,
+IWN US EQUITY,ISHARES RUSSELL 2000 VALUE ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,,,
+BICE RENTA UF CLASICA,BICE RENTA UF CLASICA,CLP - Chile Peso,RENTA FIJA,Nacional,,,
+BCHIEF1117,"BANCO DE CHILE 1,8% 2025",CLF - Chile UF,RENTA FIJA,Nacional,,,
+CHIQ US EQUITY,GLOBAL X FDS MSCICHINA CONSUMER DISCRETIONARY ETF,USD - United States Dollar,RENTA VARIABLE,Internacional,,,
+CFIFALCSCA.SN,"F. I. FALCOM SMALL CAP CHILE, SERIE A",CLP - Chile Peso,RENTA VARIABLE,Nacional,,,
