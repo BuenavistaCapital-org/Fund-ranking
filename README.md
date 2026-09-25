@@ -2,6 +2,8 @@
 
 Un dashboard interactivo profesional para el análisis y ranking de fondos de inversión con métricas de performance avanzadas y optimización de portafolios.
 
+## [streamlit app](https://funds-ranking.streamlit.app)
+
 ## 🚀 Características
 
 - **Análisis de Performance Completo**: YTD, MTD, retornos anuales, volatilidad, máximo drawdown, VaR y CVaR
